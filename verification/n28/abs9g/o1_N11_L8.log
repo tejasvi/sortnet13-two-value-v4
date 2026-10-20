@@ -1,0 +1,15 @@
+N=11 L=8 H=4 shapes=7
+SYMBREAK 1
+shape ((((LL)(LL))((LL)(LL)))((LL)L)) configs=14 feasible=0 nodes=477
+shape ((((LL)(LL))((LL)L))(((LL)L)L)) configs=12 feasible=0 nodes=121
+  feasible: shape=((((LL)(LL))((LL)L))((LL)(LL))) maxcost=8 (sim ok)
+  feasible: shape=((((LL)(LL))((LL)L))((LL)(LL))) maxcost=8 (sim ok)
+ORB ((((LL)(LL))((LL)L))((LL)(LL))) cfg=27 size=1 : 0,2 0,2 0,3 0,4 0,4 0,4 0,4 0,4 0,5 0,5
+ORB ((((LL)(LL))((LL)L))((LL)(LL))) cfg=38 size=1 : 0,2 0,2 0,3 0,3 0,4 0,4 1,0 0,4 0,5 0,5 -1,0
+ORB ((((LL)(LL))((LL)L))((LL)(LL))) cfg=38 size=2 : 0,2 0,2 0,3 0,3 0,4 1,0 0,4 0,4 0,5 0,5 -1,0
+shape ((((LL)(LL))((LL)L))((LL)(LL))) configs=22 feasible=3 nodes=1963
+shape ((((LL)(LL))(LL))(((LL)(LL))L)) configs=12 feasible=0 nodes=187
+shape ((((LL)(LL))L)(((LL)L)((LL)L))) configs=9 feasible=0 nodes=82
+shape ((((LL)(LL))(LL))(((LL)L)(LL))) configs=32 feasible=0 nodes=265
+shape ((((LL)L)((LL)L))(((LL)L)(LL))) configs=24 feasible=0 nodes=158
+TOTAL configs=125 leaves=498 feasible=3 simfail=0

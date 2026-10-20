@@ -1,0 +1,4 @@
+N=7 L=6 H=3 ordered trees=4 unordered=1
+CFG k0(k0(k0(k0L,k0L),k0(k0L,k0L)),k0(k0(k0L,k0L),k0L)) infeasible
+CFG k0(k0(k0(k0L,k0L),k0(k0L,k0L)),k0(k0(k0L,k0L),k1L)) infeasible
+TOTAL N=7 L=6 configs=2 feasible_configs=0 other=0 time=0.0s

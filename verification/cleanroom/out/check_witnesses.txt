@@ -1,0 +1,10 @@
+out/bf2_feas_10_8.txt: N=10 L=8 comparators=19 top2ok=True oM=9 om=8 p2=8
+out/bf2_feas_11_8.txt: N=11 L=8 comparators=19 top2ok=True oM=10 om=9 p2=8
+out/bf2_feas_12_9.txt: N=12 L=9 comparators=25 top2ok=True oM=11 om=10 p2=9
+out/bf2_feas_8_7.txt: N=8 L=7 comparators=15 top2ok=True oM=7 om=6 p2=7
+out/bf2_feas_9_8.txt: N=9 L=8 comparators=19 top2ok=True oM=8 om=7 p2=8
+w_1.txt: N=3 L=3 comparators=3 top2ok=True oM=2 om=1 p2=3
+w_2.txt: N=4 L=4 comparators=5 top2ok=True oM=3 om=2 p2=4
+w_3.txt: N=5 L=6 comparators=9 top2ok=True oM=4 om=3 p2=6
+w_4.txt: N=6 L=6 comparators=9 top2ok=True oM=5 om=4 p2=6
+w_5.txt: N=7 L=7 comparators=12 top2ok=True oM=6 om=5 p2=7

@@ -1,0 +1,1 @@
+seed 106 networks tested: 150 | with unary nodes: 148 | with grafting: 127 | with unary knockouts: 112 | ALL CHECKS PASSED

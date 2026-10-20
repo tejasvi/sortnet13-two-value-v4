@@ -1,0 +1,19 @@
+N=4 L=5 H=3 ordered trees=5 unordered=2
+CFG k0(k0(k0(k0L,k0L),k0L),k0L) feasible
+CFG k0(k0(k0(k0L,k0L),k1L),k0L) feasible
+CFG k0(k0(k0(k0L,k0L),k0L),k1L) feasible
+CFG k0(k0(k0(k0L,k0L),k1L),k1L) feasible
+CFG k0(k0(k0(k0L,k0L),k0L),k2L) feasible
+CFG k0(k0(k0(k0L,k0L),k1L),k2L) feasible
+CFG k0(k0(k0L,k0L),k0(k0L,k0L)) feasible
+CFG k0(k0(k0L,k0L),k0(k0L,k1L)) feasible
+CFG k0(k0(k0L,k0L),k0(k1L,k1L)) feasible
+CFG k0(k0(k0L,k0L),k1(k0L,k0L)) feasible
+CFG k0(k0(k0L,k1L),k0(k0L,k1L)) infeasible
+CFG k0(k0(k0L,k1L),k0(k1L,k1L)) infeasible
+CFG k0(k0(k0L,k1L),k1(k0L,k0L)) feasible
+CFG k0(k0(k1L,k1L),k0(k1L,k1L)) infeasible
+CFG k0(k0(k1L,k1L),k1(k0L,k0L)) feasible
+CFG k0(k1(k0L,k0L),k1(k0L,k0L)) feasible
+CFG k1(k0(k0L,k0L),k0(k0L,k0L)) feasible
+TOTAL N=4 L=5 configs=17 feasible_configs=14 other=0 time=0.2s

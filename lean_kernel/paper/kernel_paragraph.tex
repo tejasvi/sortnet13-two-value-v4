@@ -1,0 +1,25 @@
+% Paragraph for the paper: what Lean's kernel checks in the kernel-only formalization.
+% Numbers from logs/run2/ of the Lean artifact (S13Kernel). Uses the bibliography keys of
+% lean_bib.tex (Lean4, Mathlib, LeanRepo) from the native_decide project.
+
+\paragraph{Kernel-checked computation.}
+The computation is also checked without native code. An untrusted program produces a certificate: a
+list $H$ of $99{,}736$ states, the start state among them, and for each state and each comparator with
+$\mathrm{lo}<\mathrm{hi}$ whose next state is neither unchanged nor pruned by the potential $\Phi$, a
+permutation of the channels and the index of the state of $H$ that the relabeled next state equals.
+Of the $99{,}736\cdot78=7{,}779{,}408$ next states, $275{,}115$ are unchanged, $6{,}396{,}523$ have
+$\Phi>2^8$ and $1{,}107{,}770$ are relabelings of states of $H$. A checking function written for Lean's
+kernel recomputes every next state and its potential, verifies each permutation and each relabeled
+state entry by entry, and confirms that no state of $H$ is a goal; Lean proves that its success gives
+the hypotheses of the closure argument, hence $P(2,13)\ge9$. Lean's kernel evaluates the check itself
+(\texttt{decide +kernel}) in $1{,}102$ theorems of about $90$ states each. Every theorem of the proof,
+including \texttt{main\_theorem}, therefore depends only on the standard axioms:
+\begin{alltt}\small
+'S13K.main_theorem' depends on axioms: [propext, Classical.choice, Quot.sound]
+\end{alltt}
+and the proof trusts Lean's kernel together with the hypothesis $S(11)\ge35$; the certificate and the
+program that produced it are not trusted. The statement is the same Lean proposition as above. On a
+$384$-thread x86-64 server, building the proof with $120$ parallel jobs took $2$~min~$56$~s of wall
+clock time and $4.96$ hours of processor time, with at most $4.2$~GiB of memory per job (Lean~4
+\texttt{v4.35.0-rc3}). Each of seven corrupted certificates (a wrong index, a wrong permutation, a missing
+entry, a changed state) is rejected.

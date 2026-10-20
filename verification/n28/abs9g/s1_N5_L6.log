@@ -1,0 +1,8 @@
+N=5 L=6 H=4 shapes=3
+  feasible: shape=((((LL)L)L)L) maxcost=6 (sim ok)
+  feasible: shape=((((LL)L)L)L) maxcost=6 (sim ok)
+SYMBREAK 1
+shape ((((LL)L)L)L) configs=17 feasible=16 nodes=153
+shape (((LL)(LL))L) configs=37 feasible=60 nodes=7317
+shape (((LL)L)(LL)) configs=71 feasible=147 nodes=22367
+TOTAL configs=125 leaves=13237 feasible=223 simfail=0

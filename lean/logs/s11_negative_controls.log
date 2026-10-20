@@ -1,0 +1,32 @@
+bound 35->36 (last): step 12659078 kind=2 W=11 Bd=35: original true, corrupted false
+perm of witness 0 perturbed: step 6000000 kind=2 W=9 Bd=16: original true, corrupted false
+witness 0 id := s: step 6000000 kind=2 W=9 Bd=16: original true, corrupted false
+witness 0 := none: step 6000000 kind=2 W=9 Bd=16: original true, corrupted false
+bound + 1: step 6000000 kind=2 W=9 Bd=16: original true, corrupted false
+perm of witness 0 perturbed: step 6000002 kind=2 W=8 Bd=13: original true, corrupted false
+witness 0 id := s: step 6000002 kind=2 W=8 Bd=13: original true, corrupted false
+witness 0 := none: step 6000002 kind=2 W=8 Bd=13: original true, corrupted false
+bound + 1: step 6000002 kind=2 W=8 Bd=13: original true, corrupted false
+perm of witness 0 perturbed: step 6000006 kind=2 W=9 Bd=15: original true, corrupted false
+witness 0 id := s: step 6000006 kind=2 W=9 Bd=15: original true, corrupted false
+witness 0 := none: step 6000006 kind=2 W=9 Bd=15: original true, corrupted false
+bound + 1: step 6000006 kind=2 W=9 Bd=15: original true, corrupted false
+perm of witness 0 perturbed: step 6000009 kind=2 W=9 Bd=15: original true, corrupted false
+witness 0 id := s: step 6000009 kind=2 W=9 Bd=15: original true, corrupted false
+witness 0 := none: step 6000009 kind=2 W=9 Bd=15: original true, corrupted false
+bound + 1: step 6000009 kind=2 W=9 Bd=15: original true, corrupted false
+perm of witness 0 perturbed: step 6000012 kind=2 W=9 Bd=16: original true, corrupted false
+witness 0 id := s: step 6000012 kind=2 W=9 Bd=16: original true, corrupted false
+witness 0 := none: step 6000012 kind=2 W=9 Bd=16: original true, corrupted false
+bound + 1: step 6000012 kind=2 W=9 Bd=16: original true, corrupted false
+huffman bound + 1: step 6000001 kind=1 W=9 Bd=14: original true, corrupted false
+huffman perm of witness 0 perturbed: step 6000001 kind=1 W=9 Bd=14: original true, corrupted false
+huffman bound + 1: step 6000003 kind=0 W=9 Bd=14: original true, corrupted false
+huffman perm of witness 0 perturbed: step 6000003 kind=0 W=9 Bd=14: original true, corrupted false
+huffman bound + 1: step 6000004 kind=1 W=9 Bd=14: original true, corrupted false
+huffman perm of witness 0 perturbed: step 6000004 kind=1 W=9 Bd=14: original true, corrupted false
+huffman bound + 1: step 6000005 kind=0 W=9 Bd=14: original true, corrupted false
+huffman perm of witness 0 perturbed: step 6000005 kind=0 W=9 Bd=14: original true, corrupted false
+huffman bound + 1: step 6000007 kind=0 W=9 Bd=14: original true, corrupted false
+huffman perm of witness 0 perturbed: step 6000007 kind=0 W=9 Bd=14: original true, corrupted false
+kind := 3: step 12659078 kind=2 W=11 Bd=35: original true, corrupted false

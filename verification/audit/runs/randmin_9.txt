@@ -1,0 +1,3 @@
+MODE=randmin N=9 tested=40000 fail=0 (reduceFail=0 extractFail=0) distinctStructs=39956
+  byP2: 8:46 9:1495 10:6505 11:9100 12:6522 13:4128 14:3056 15:2547 16:1907 17:1445 18:1007 19:739 20:462 21:301 22:232 23:182 24:111 25:73 26:45 27:20 28:30 29:22 30:10 31:6 32:3 33:4 34:2
+  features: withPt=38805 withPtRoot=9528 withPtLeaf=34256 withDeadPtSrc=38750 withLivePtSrc=18664 withPortDepth0=38338 withMultiPtSeg=30860

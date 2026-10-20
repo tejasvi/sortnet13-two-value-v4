@@ -1,0 +1,6 @@
+N=5 L=5 H=3 shapes=2
+shape (((LL)(LL))L) configs=3 feasible=0 nodes=25
+shape (((LL)L)(LL)) configs=8 feasible=0 nodes=33
+TOTAL configs=11 leaves=3 feasible=0 simfail=0
+WALL 0.00 s
+EXIT 0

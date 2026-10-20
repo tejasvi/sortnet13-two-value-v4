@@ -1,0 +1,4 @@
+exh nodes=11111111
+MODE=exh N=5 tested=29820 fail=0 (reduceFail=0 extractFail=0) distinctStructs=294
+  byP2: 6:15420 7:14400
+  features: withPt=23700 withPtRoot=0 withPtLeaf=19170 withDeadPtSrc=23700 withLivePtSrc=0 withPortDepth0=22590 withMultiPtSeg=8130

@@ -1,0 +1,8 @@
+negative-control data written to negctl/data
+NegB1_sigma: REJECTED (exit 1): negctl/NegB1_sigma.lean:14:53: error: Tactic `decide` proved that the proposition
+NegG_len: REJECTED (exit 1): negctl/NegG_len.lean:14:53: error: Tactic `decide` proved that the proposition
+NegC_drop: REJECTED (exit 1): negctl/NegC_drop.lean:14:53: error: Tactic `decide` proved that the proposition
+NegB2_sigma_consistent: REJECTED (exit 1): negctl/NegB2_sigma_consistent.lean:14:53: error: Tactic `decide` proved that the proposition
+NegA_target: REJECTED (exit 1): negctl/NegA_target.lean:14:53: error: Tactic `decide` proved that the proposition
+NegE_start_key: REJECTED (exit 1): negctl/NegE_start_key.lean:8:50: error: Tactic `decide` proved that the proposition
+NegD_target_key: REJECTED (exit 1): negctl/NegD_target_key.lean:13:53: error: Tactic `decide` proved that the proposition

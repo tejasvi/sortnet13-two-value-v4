@@ -1,0 +1,15 @@
+info: S13/S11/Axioms.lean:7:0: 'Sortnet.S13_ge_44' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound,
+ certOK_harder11._native.native_decide.ax_1_1,
+ fullCheck_13_8._native.native_decide.ax_1_1]
+info: S13/S11/Axioms.lean:8:0: 'Sortnet.S11_ge_35' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound,
+ certOK_harder11._native.native_decide.ax_1_1]
+info: S13/S11/Axioms.lean:9:0: 'Sortnet.S11.certOK_sound' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: S13/S11/Axioms.lean:10:0: 'Sortnet.S11.sorts_bound_of_LB' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: S13/S11/Axioms.lean:11:0: 'Sortnet.S11.Cert.claims_of_check' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: S13/S11/Axioms.lean:12:0: axiom Sortnet.certOK_harder11._native.native_decide.ax_1_1 : decide
+    (S11.certOK S11Data.theCert S11Data.certCount 2048 11 35 = true) =
+  true

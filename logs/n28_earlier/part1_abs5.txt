@@ -1,0 +1,4 @@
+==> a5_N28_L11.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)(LL))((LL)(LL)))(((LL)(LL))((LL)(LL))))((((LL)(LL))((LL)(LL)))((LL)L)))L) configs=84 feasible=0 nodes=12974434017
+shape ((((((LL)(LL))((LL)(LL)))(((LL)(LL))((LL)(LL))))((((LL)(LL))((LL)L))(((LL)L)L)))L) configs=72 feasible=0 nodes=638915047

@@ -1,0 +1,14 @@
+N=10 L=8 H=4 shapes=9
+  feasible: shape=((((LL)(LL))((LL)(LL)))(LL)) maxcost=8 (sim ok)
+  feasible: shape=((((LL)(LL))((LL)(LL)))(LL)) maxcost=8 (sim ok)
+SYMBREAK 1
+shape ((((LL)(LL))((LL)(LL)))(LL)) configs=10 feasible=127 nodes=9713
+shape ((((LL)(LL))((LL)L))((LL)L)) configs=28 feasible=190 nodes=85852
+shape ((((LL)(LL))(LL))(((LL)L)L)) configs=24 feasible=0 nodes=709
+shape ((((LL)L)((LL)L))(((LL)L)L)) configs=18 feasible=0 nodes=251
+shape ((((LL)(LL))(LL))((LL)(LL))) configs=44 feasible=363 nodes=144889
+shape ((((LL)L)((LL)L))((LL)(LL))) configs=33 feasible=168 nodes=119239
+shape ((((LL)(LL))L)(((LL)(LL))L)) configs=6 feasible=5 nodes=340
+shape ((((LL)(LL))L)(((LL)L)(LL))) configs=24 feasible=0 nodes=553
+shape ((((LL)L)(LL))(((LL)L)(LL))) configs=36 feasible=0 nodes=483
+TOTAL configs=223 leaves=154035 feasible=853 simfail=0

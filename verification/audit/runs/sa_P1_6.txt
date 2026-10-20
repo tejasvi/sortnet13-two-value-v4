@@ -1,0 +1,4 @@
+MODE=sa N=6 tested=10000 fail=0 (reduceFail=0 extractFail=0) distinctStructs=1037
+  byP2: 6:1063 7:8937
+  features: withPt=8039 withPtRoot=60 withPtLeaf=6311 withDeadPtSrc=7948 withLivePtSrc=277 withPortDepth0=7638 withMultiPtSeg=2796
+  SA best p2 (top2-correct) = 6 : 6: (1,4) (2,5) (3,5) (0,2) (2,4) (4,5) (1,3) (2,3) (3,4) (0,1)

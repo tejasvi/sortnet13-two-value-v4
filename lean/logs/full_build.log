@@ -1,0 +1,36 @@
+✔ [1022/1025] Built S13.Validate (582s)
+✔ [1023/1025] Built S13 (1.9s)
+ℹ [1025/1025] Built S13.Axioms (2.0s)
+info: S13/Axioms.lean:10:0: 'Sortnet.main_theorem' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound,
+ fullCheck_13_8._native.native_decide.ax_1_1]
+info: S13/Axioms.lean:11:0: 'Sortnet.main_theorem_01' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound,
+ fullCheck_13_8._native.native_decide.ax_1_1]
+info: S13/Axioms.lean:12:0: 'Sortnet.P2_13' depends on axioms: [propext, Classical.choice, Quot.sound, fullCheck_13_8._native.native_decide.ax_1_1]
+info: S13/Axioms.lean:13:0: 'Sortnet.mainStatement_of_P2' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: S13/Axioms.lean:14:0: 'Sortnet.prune' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: S13/Axioms.lean:15:0: 'Sortnet.exists_sorts_of_sortsBy' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: S13/Axioms.lean:16:0: 'Sortnet.Network.sorts_iff_sorts01' depends on axioms: [propext, Quot.sound]
+info: S13/Axioms.lean:17:0: 'Sortnet.checkAll_sound' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: S13/Axioms.lean:18:0: 'Sortnet.p2AtLeast_of_not_feasible' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: S13/Axioms.lean:19:0: 'Sortnet.p2_values' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound,
+ fullCheck_13_8._native.native_decide.ax_1_1,
+ p2_lower_10._native.native_decide.ax_1_1,
+ p2_lower_11._native.native_decide.ax_1_1,
+ p2_lower_12._native.native_decide.ax_1_1,
+ p2_lower_3._native.native_decide.ax_1_1,
+ p2_lower_4._native.native_decide.ax_1_1,
+ p2_lower_5._native.native_decide.ax_1_1,
+ p2_lower_6._native.native_decide.ax_1_1,
+ p2_lower_7._native.native_decide.ax_1_1,
+ p2_lower_8._native.native_decide.ax_1_1,
+ p2_lower_9._native.native_decide.ax_1_1]
+info: S13/Axioms.lean:20:0: axiom Sortnet.fullCheck_13_8._native.native_decide.ax_1_1 : decide (Comp.fullCheck 13 8 = true) = true
+Build completed successfully (1025 jobs).
+maxrss=2417180KB wall=587.32 user=601.20
+EXIT 0

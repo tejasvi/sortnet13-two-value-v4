@@ -1,0 +1,1 @@
+N=9 L=7 kraft=0 allor=0 lim=5040 : INFEASIBLE  states=4619670 nodes=4619670 time=547.51s

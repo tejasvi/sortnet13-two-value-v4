@@ -1,0 +1,29 @@
+N=9 L=8 H=5 shapes=25
+shape (((((LL)(LL))((LL)L))L)L) configs=30 feasible=0 nodes=502
+shape (((((LL)(LL))(LL))(LL))L) configs=157 feasible=0 nodes=1175
+shape (((((LL)L)((LL)L))(LL))L) configs=115 feasible=0 nodes=683
+shape (((((LL)(LL))L)((LL)L))L) configs=161 feasible=0 nodes=819
+shape (((((LL)L)(LL))((LL)L))L) configs=439 feasible=0 nodes=1691
+shape (((((LL)L)L)(((LL)L)L))L) configs=81 feasible=0 nodes=246
+shape (((((LL)L)L)((LL)(LL)))L) configs=260 feasible=0 nodes=1002
+  feasible: shape=((((LL)(LL))((LL)(LL)))L) maxcost=8 (sim ok)
+  feasible: shape=((((LL)(LL))((LL)(LL)))L) maxcost=8 (sim ok)
+shape ((((LL)(LL))((LL)(LL)))L) configs=273 feasible=20499 nodes=9014923
+shape (((((LL)(LL))(LL))L)(LL)) configs=156 feasible=0 nodes=1014
+shape (((((LL)L)((LL)L))L)(LL)) configs=114 feasible=0 nodes=598
+shape (((((LL)(LL))L)(LL))(LL)) configs=294 feasible=0 nodes=1019
+shape (((((LL)L)(LL))(LL))(LL)) configs=792 feasible=0 nodes=2386
+shape (((((LL)L)L)((LL)L))(LL)) configs=829 feasible=0 nodes=1990
+shape ((((LL)(LL))((LL)L))(LL)) configs=1588 feasible=20434 nodes=50154269
+shape (((((LL)(LL))L)L)((LL)L)) configs=160 feasible=0 nodes=780
+shape (((((LL)L)(LL))L)((LL)L)) configs=438 feasible=0 nodes=1616
+shape (((((LL)L)L)(LL))((LL)L)) configs=829 feasible=0 nodes=2022
+shape ((((LL)(LL))(LL))((LL)L)) configs=1786 feasible=26521 nodes=101634454
+shape ((((LL)L)((LL)L))((LL)L)) configs=1651 feasible=9643 nodes=74551454
+shape (((((LL)L)L)L)(((LL)L)L)) configs=138 feasible=0 nodes=422
+shape ((((LL)(LL))L)(((LL)L)L)) configs=449 feasible=3037 nodes=892421
+shape ((((LL)L)(LL))(((LL)L)L)) configs=1357 feasible=2661 nodes=1264464
+shape (((((LL)L)L)L)((LL)(LL))) configs=259 feasible=0 nodes=962
+shape ((((LL)(LL))L)((LL)(LL))) configs=706 feasible=13245 nodes=34914841
+shape ((((LL)L)(LL))((LL)(LL))) configs=2140 feasible=19391 nodes=155122253
+TOTAL configs=15202 leaves=177404215 feasible=115431 simfail=0

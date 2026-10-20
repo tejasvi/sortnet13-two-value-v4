@@ -1,0 +1,3 @@
+N=8 L=6 H=3 ordered trees=1 unordered=1
+CFG k0(k0(k0(k0L,k0L),k0(k0L,k0L)),k0(k0(k0L,k0L),k0(k0L,k0L))) infeasible
+TOTAL N=8 L=6 configs=1 feasible_configs=0 other=0 time=0.0s

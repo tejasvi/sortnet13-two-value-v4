@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use these programs or logs, please cite the paper."
+title: "Programs and logs for \"Sorting networks on 13 inputs need at least 44 comparators\""
+authors:
+  - family-names: Tomar
+    given-names: Tejasvi Singh
+    affiliation: Independent researcher
+    orcid: "https://orcid.org/0000-0003-4668-3639"
+doi: 10.5281/zenodo.23486691
+version: "4"
+date-released: 2026-10-19
+repository-code: "https://github.com/tejasvi/sortnet13-two-value-v4"
+license:
+  - Apache-2.0
+  - CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "Sorting networks on 13 inputs need at least 44 comparators"
+  authors:
+    - family-names: Tomar
+      given-names: Tejasvi Singh
+      affiliation: Independent researcher
+      orcid: "https://orcid.org/0000-0003-4668-3639"
+  doi: 10.5281/zenodo.23486690
+  year: 2026

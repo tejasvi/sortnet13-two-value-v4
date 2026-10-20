@@ -1,0 +1,3 @@
+MODE=sortmin N=6 tested=10000 fail=0 (reduceFail=0 extractFail=0) distinctStructs=7446
+  byP2: 6:80 7:1618 8:3104 9:1338 10:782 11:755 12:627 13:453 14:401 15:301 16:181 17:127 18:85 19:50 20:42 21:17 22:19 23:9 24:4 25:3 26:1 28:1 29:1 33:1
+  features: withPt=9173 withPtRoot=3587 withPtLeaf=7515 withDeadPtSrc=8934 withLivePtSrc=4709 withPortDepth0=8925 withMultiPtSeg=6474

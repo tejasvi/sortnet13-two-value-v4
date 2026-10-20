@@ -1,0 +1,205 @@
+==> s0.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)((LL)L))(((LL)L)(LL)))((((LL)L)(LL))((LL)(LL))))((((LL)L)(LL))((LL)L))) configs=17115607 feasible=0 nodes=34940648
+EXIT 143
+==> s1.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)(LL))(LL))((LL)(LL)))((((LL)(LL))L)(((LL)L)(LL))))((((LL)(LL))L)((LL)L))) configs=2724448 feasible=0 nodes=5581806
+shape ((((((LL)(LL))((LL)(LL)))(((LL)(LL))L))((((LL)L)L)((LL)L)))((((LL)L)(LL))((LL)L))) configs=2042169 feasible=0 nodes=4168856
+shape ((((((LL)(LL))(LL))(((LL)L)((LL)L)))((((LL)L)L)(((LL)L)L)))((((LL)L)(LL))((LL)L))) configs=2042172 feasible=0 nodes=4168883
+shape ((((((LL)(LL))L)(((LL)L)((LL)L)))((((LL)(LL))L)(((LL)L)L)))((((LL)L)(LL))((LL)L))) configs=1312812 feasible=0 nodes=2679920
+shape ((((((LL)L)((LL)L))(((LL)L)L))((((LL)L)((LL)L))(((LL)L)L)))((((LL)L)(LL))((LL)L))) configs=1385750 feasible=0 nodes=2828837
+shape ((((((LL)(LL))((LL)L))(((LL)L)((LL)L)))((((LL)L)((LL)L))L))((((LL)L)L)(((LL)L)L))) configs=142111 feasible=0 nodes=288671
+shape ((((((LL)(LL))((LL)L))(((LL)L)(LL)))((((LL)L)(LL))((LL)L)))((((LL)L)L)(((LL)L)L))) configs=3537383 feasible=0 nodes=7187499
+shape ((((((LL)(LL))((LL)L))((LL)(LL)))((((LL)L)((LL)L))((LL)L)))((((LL)L)L)(((LL)L)L))) configs=1823953 feasible=0 nodes=3705999
+shape ((((((LL)(LL))((LL)L))((LL)L))((((LL)(LL))L)(((LL)L)(LL))))((((LL)L)L)(((LL)L)L))) configs=1326505 feasible=0 nodes=2695214
+shape ((((((LL)(LL))((LL)(LL)))(((LL)L)((LL)L)))(((LL)L)((LL)L)))((((LL)L)L)((LL)(LL)))) configs=1347162 feasible=0 nodes=2763176
+shape ((((((LL)(LL))((LL)(LL)))((LL)(LL)))((((LL)(LL))L)((LL)L)))((((LL)L)L)((LL)(LL)))) configs=1920965 feasible=0 nodes=3933292
+shape ((((((LL)(LL))((LL)(LL)))((LL)L))((((LL)(LL))(LL))((LL)L)))((((LL)L)L)((LL)(LL)))) configs=3259838 feasible=0 nodes=6675597
+shape ((((((LL)(LL))((LL)(LL)))(LL))((((LL)(LL))L)(((LL)(LL))L)))((((LL)L)L)((LL)(LL)))) configs=249454 feasible=0 nodes=510710
+EXIT 143
+==> s2.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)(LL))(LL))((LL)(LL)))((((LL)L)((LL)L))(((LL)L)L)))((((LL)L)(LL))((LL)L))) configs=6418329 feasible=0 nodes=13102605
+shape ((((((LL)(LL))((LL)(LL)))(((LL)(LL))L))((((LL)(LL))L)(LL)))((((LL)L)L)(((LL)L)L))) configs=177642 feasible=0 nodes=360881
+shape ((((((LL)(LL))(LL))(((LL)(LL))(LL)))((((LL)L)(LL))((LL)L)))((((LL)L)L)(((LL)L)L))) configs=2210857 feasible=0 nodes=4492157
+shape ((((((LL)(LL))(LL))(((LL)(LL))L))((((LL)L)((LL)L))((LL)L)))((((LL)L)L)(((LL)L)L))) configs=994874 feasible=0 nodes=2021380
+shape ((((((LL)(LL))((LL)L))((LL)L))((((LL)L)(LL))(((LL)L)(LL))))((((LL)L)L)(((LL)L)L))) configs=1989770 feasible=0 nodes=4042920
+shape ((((((LL)(LL))((LL)L))(((LL)(LL))((LL)L)))(((LL)L)((LL)L)))((((LL)L)L)((LL)(LL)))) configs=1347162 feasible=0 nodes=2763176
+shape ((((((LL)(LL))((LL)L))(((LL)(LL))L))((((LL)(LL))L)((LL)L)))((((LL)L)L)((LL)(LL)))) configs=1047786 feasible=0 nodes=2145344
+shape ((((((LL)(LL))(LL))(((LL)L)((LL)L)))((((LL)L)L)((LL)(LL))))((((LL)L)L)((LL)(LL)))) configs=3293106 feasible=0 nodes=6742895
+EXIT 143
+==> s3.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)((LL)L))(((LL)L)L))((((LL)L)((LL)L))((LL)(LL))))((((LL)L)(LL))((LL)L))) configs=4813738 feasible=0 nodes=9826907
+shape ((((((LL)(LL))((LL)(LL)))(((LL)L)(LL)))((((LL)(LL))L)(LL)))((((LL)L)L)(((LL)L)L))) configs=473740 feasible=0 nodes=962512
+shape ((((((LL)(LL))(LL))(((LL)L)((LL)L)))((((LL)L)(LL))((LL)L)))((((LL)L)L)(((LL)L)L))) configs=2653032 feasible=0 nodes=5390587
+shape ((((((LL)(LL))L)(((LL)L)((LL)L)))((((LL)L)((LL)L))((LL)L)))((((LL)L)L)(((LL)L)L))) configs=746151 feasible=0 nodes=1516000
+shape ((((((LL)(LL))((LL)(LL)))((LL)L))((((LL)L)(LL))((LL)(LL))))((((LL)L)L)(((LL)L)L))) configs=2431944 feasible=0 nodes=4941578
+shape ((((((LL)(LL))(LL))(((LL)L)L))((((LL)(LL))(LL))(((LL)L)L)))((((LL)L)L)(((LL)L)L))) configs=592183 feasible=0 nodes=1203172
+shape ((((((LL)(LL))L)(((LL)(LL))L))((((LL)L)(LL))(((LL)L)(LL))))((((LL)L)L)(((LL)L)L))) configs=426367 feasible=0 nodes=866251
+shape ((((((LL)(LL))((LL)(LL)))(((LL)(LL))L))((((LL)(LL))(LL))L))((((LL)L)L)((LL)(LL)))) configs=199558 feasible=0 nodes=408539
+shape ((((((LL)(LL))((LL)(LL)))(((LL)L)L))((((LL)(LL))((LL)L))L))((((LL)L)L)((LL)(LL)))) configs=199558 feasible=0 nodes=408539
+shape ((((((LL)(LL))((LL)L))(((LL)L)(LL)))((((LL)(LL))L)((LL)L)))((((LL)L)L)((LL)(LL)))) configs=2794144 feasible=0 nodes=5721193
+shape ((((((LL)L)((LL)L))(((LL)L)((LL)L)))((((LL)L)L)((LL)(LL))))((((LL)L)L)((LL)(LL)))) configs=1646540 feasible=0 nodes=3371380
+EXIT 143
+==> s4.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)(LL))((LL)L))(((LL)L)(LL)))(((LL)(LL))((LL)(LL))))((((LL)(LL))L)((LL)L))) configs=2765729 feasible=0 nodes=5672568
+shape ((((((LL)(LL))((LL)L))((LL)(LL)))((((LL)(LL))L)((LL)(LL))))((((LL)(LL))L)((LL)L))) configs=1873049 feasible=0 nodes=3837466
+shape ((((((LL)(LL))L)(((LL)(LL))L))((((LL)L)((LL)L))((LL)(LL))))((((LL)(LL))L)((LL)L))) configs=510812 feasible=0 nodes=1046482
+shape ((((((LL)(LL))((LL)L))(((LL)L)((LL)L)))((((LL)L)L)((LL)L)))((((LL)L)(LL))((LL)L))) configs=4084376 feasible=0 nodes=8337925
+EXIT 143
+==> s5.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)(LL))((LL)L))(LL))((((LL)(LL))(LL))(((LL)L)(LL))))((((LL)L)(LL))((LL)L))) configs=5186520 feasible=0 nodes=10587910
+shape ((((((LL)(LL))((LL)(LL)))(LL))((((LL)(LL))(LL))((LL)(LL))))((((LL)L)(LL))((LL)L))) configs=3565721 feasible=0 nodes=7282520
+shape ((((((LL)(LL))((LL)L))(((LL)(LL))((LL)L)))((((LL)(LL))L)L))((((LL)L)L)(((LL)L)L))) configs=71048 feasible=0 nodes=144307
+shape ((((((LL)(LL))(LL))(((LL)(LL))(LL)))((((LL)(LL))(LL))(LL)))((((LL)L)L)(((LL)L)L))) configs=789580 feasible=0 nodes=1604275
+shape ((((((LL)(LL))((LL)(LL)))L)((((LL)(LL))(LL))(((LL)(LL))L)))((((LL)L)L)(((LL)L)L))) configs=94735 feasible=0 nodes=192432
+shape ((((((LL)(LL))((LL)L))((LL)(LL)))((((LL)L)(LL))((LL)(LL))))((((LL)L)L)(((LL)L)L))) configs=3821641 feasible=0 nodes=7765127
+shape ((((((LL)(LL))(LL))(((LL)L)L))((((LL)(LL))(LL))((LL)(LL))))((((LL)L)L)(((LL)L)L))) configs=2084522 feasible=0 nodes=4235453
+shape ((((((LL)(LL))L)(((LL)L)(LL)))((((LL)L)(LL))(((LL)L)(LL))))((((LL)L)L)(((LL)L)L))) configs=1705516 feasible=0 nodes=3465345
+shape ((((((LL)(LL))((LL)L))(((LL)(LL))(LL)))((((LL)(LL))(LL))L))((((LL)L)L)((LL)(LL)))) configs=532196 feasible=0 nodes=1089634
+shape ((((((LL)(LL))((LL)L))(((LL)(LL))L))((((LL)(LL))((LL)L))L))((((LL)L)L)((LL)(LL)))) configs=199558 feasible=0 nodes=408539
+EXIT 143
+==> s6.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)(LL))((LL)L))(((LL)L)(LL)))((((LL)(LL))L)((LL)L)))((((LL)L)((LL)L))(LL))) configs=1471653 feasible=0 nodes=3003666
+shape ((((((LL)(LL))((LL)L))((LL)(LL)))((((LL)(LL))(LL))((LL)L)))((((LL)L)((LL)L))(LL))) configs=2698052 feasible=0 nodes=5507005
+shape ((((((LL)(LL))((LL)(LL)))(LL))((((LL)L)(LL))(((LL)L)(LL))))((((LL)L)((LL)L))(LL))) configs=788377 feasible=0 nodes=1609075
+shape ((((((LL)(LL))((LL)(LL)))(((LL)(LL))(LL)))((((LL)L)L)(LL)))(((((LL)L)L)L)((LL)L))) configs=311020 feasible=0 nodes=622031
+shape ((((((LL)(LL))((LL)(LL)))((LL)(LL)))((((LL)L)((LL)L))(LL)))(((((LL)L)L)L)((LL)L))) configs=427660 feasible=0 nodes=855312
+shape ((((((LL)(LL))((LL)(LL)))((LL)L))((((LL)(LL))((LL)L))(LL)))(((((LL)L)L)L)((LL)L))) configs=362858 feasible=0 nodes=725707
+shape ((((((LL)L)((LL)L))(((LL)L)(LL)))((((LL)L)(LL))((LL)(LL))))(((((LL)L)L)L)((LL)L))) configs=2737129 feasible=0 nodes=5474243
+shape ((((((LL)(LL))((LL)(LL)))(((LL)(LL))((LL)L)))((((LL)L)L)L))((((LL)(LL))L)((LL)L))) configs=123813 feasible=0 nodes=253595
+shape ((((((LL)(LL))((LL)L))L)((((LL)L)((LL)L))(((LL)L)((LL)L))))((((LL)(LL))L)((LL)L))) configs=123814 feasible=0 nodes=253598
+shape ((((((LL)(LL))(LL))(((LL)L)((LL)L)))(((LL)(LL))((LL)(LL))))((((LL)(LL))L)((LL)L))) configs=2074290 feasible=0 nodes=4254412
+shape ((((((LL)(LL))L)(((LL)L)((LL)L)))((((LL)(LL))L)((LL)(LL))))((((LL)(LL))L)((LL)L))) configs=766231 feasible=0 nodes=1569778
+EXIT 143
+==> s7.log <==
+N=28 L=11 H=6 shapes=62641
+EXIT 143
+==> s8.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)(LL))((LL)(LL)))(((LL)(LL))((LL)L)))(((LL)L)(LL)))((((LL)(LL))L)((LL)L))) configs=763644 feasible=0 nodes=1572860
+shape ((((((LL)(LL))((LL)(LL)))((LL)(LL)))((((LL)(LL))(LL))(LL)))((((LL)(LL))L)((LL)L))) configs=1135169 feasible=0 nodes=2325884
+shape ((((((LL)(LL))(LL))(((LL)(LL))(LL)))((((LL)L)(LL))((LL)L)))((((LL)(LL))L)((LL)L))) configs=2889567 feasible=0 nodes=5920106
+shape ((((((LL)(LL))((LL)(LL)))((LL)L))((((LL)(LL))((LL)(LL)))L))((((LL)(LL))L)((LL)L))) configs=144451 feasible=0 nodes=296221
+shape ((((((LL)(LL))(LL))(((LL)(LL))L))((((LL)L)((LL)L))((LL)L)))((((LL)(LL))L)((LL)L))) configs=1300288 feasible=0 nodes=2663946
+shape ((((((LL)(LL))L)((LL)(LL)))((((LL)L)((LL)L))(((LL)L)(LL))))((((LL)(LL))L)((LL)L))) configs=2043329 feasible=0 nodes=4186319
+shape ((((((LL)(LL))((LL)L))((LL)L))((((LL)L)(LL))(((LL)L)(LL))))((((LL)(LL))L)((LL)L))) configs=2600608 feasible=0 nodes=5328089
+shape ((((((LL)(LL))L)(((LL)(LL))L))((((LL)(LL))L)(((LL)L)(LL))))((((LL)(LL))L)((LL)L))) configs=371492 feasible=0 nodes=761024
+shape ((((((LL)(LL))((LL)L))(((LL)(LL))((LL)L)))(((LL)L)((LL)L)))((((LL)L)(LL))((LL)L))) configs=2625657 feasible=0 nodes=5369831
+EXIT 143
+==> s9.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)(LL))((LL)(LL)))(LL))((((LL)(LL))(LL))(((LL)L)L)))(((((LL)L)L)L)((LL)L))) configs=311020 feasible=0 nodes=622031
+shape ((((((LL)(LL))((LL)(LL)))(((LL)(LL))(LL)))((((LL)(LL))L)L))((((LL)(LL))L)((LL)L))) configs=123813 feasible=0 nodes=253595
+shape ((((((LL)(LL))((LL)L))(((LL)(LL))L))((((LL)(LL))(LL))(LL)))((((LL)(LL))L)((LL)L))) configs=619170 feasible=0 nodes=1268469
+shape ((((((LL)(LL))((LL)(LL)))L)((((LL)(LL))((LL)L))(((LL)L)L)))((((LL)(LL))L)((LL)L))) configs=123813 feasible=0 nodes=253595
+shape ((((((LL)(LL))((LL)(LL)))((LL)L))((((LL)L)(LL))((LL)(LL))))((((LL)(LL))L)((LL)L))) configs=3178526 feasible=0 nodes=6512631
+shape ((((((LL)(LL))L)(((LL)(LL))L))((((LL)L)(LL))(((LL)L)(LL))))((((LL)(LL))L)((LL)L))) configs=557253 feasible=0 nodes=1141628
+shape ((((((LL)(LL))((LL)(LL)))(((LL)L)L))((((LL)(LL))((LL)L))L))((((LL)L)(LL))((LL)L))) configs=388957 feasible=0 nodes=793937
+shape ((((((LL)L)((LL)L))(((LL)L)((LL)L)))((((LL)L)L)((LL)(LL))))((((LL)L)(LL))((LL)L))) configs=3209147 feasible=0 nodes=6551213
+shape ((((((LL)(LL))(LL))(((LL)L)(LL)))((((LL)L)(LL))(((LL)L)L)))((((LL)L)(LL))((LL)L))) configs=12447703 feasible=0 nodes=25411302
+shape ((((((LL)(LL))(LL))((LL)(LL)))((((LL)(LL))L)(((LL)(LL))L)))((((LL)L)(LL))((LL)L))) configs=2139419 feasible=0 nodes=4367410
+EXIT 143
+==> s10.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)(LL))((LL)(LL)))(((LL)L)L))(((LL)(LL))((LL)(LL))))((((LL)L)(LL))((LL)L))) configs=3257771 feasible=0 nodes=6656878
+shape ((((((LL)L)((LL)L))(((LL)L)(LL)))((((LL)L)(LL))(((LL)L)L)))((((LL)L)(LL))((LL)L))) configs=9335768 feasible=0 nodes=19058411
+EXIT 143
+==> s11.log <==
+N=28 L=11 H=6 shapes=62641
+EXIT 143
+==> s12.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)(LL))(LL))(((LL)L)(LL)))((((LL)(LL))(LL))((LL)L)))((((LL)L)(LL))((LL)L))) configs=14522325 feasible=0 nodes=29646542
+shape ((((((LL)(LL))((LL)L))((LL)L))((((LL)L)((LL)L))(((LL)L)L)))((((LL)L)(LL))((LL)L))) configs=4084376 feasible=0 nodes=8337925
+shape ((((((LL)(LL))((LL)(LL)))(((LL)(LL))(LL)))(((LL)(LL))(LL)))((((LL)L)L)(((LL)L)L))) configs=900120 feasible=0 nodes=1832302
+shape ((((((LL)(LL))(LL))(((LL)(LL))(LL)))((((LL)L)((LL)L))(LL)))((((LL)L)L)(((LL)L)L))) configs=592181 feasible=0 nodes=1203186
+shape ((((((LL)(LL))((LL)L))(LL))((((LL)(LL))(LL))(((LL)(LL))L)))((((LL)L)L)(((LL)L)L))) configs=473740 feasible=0 nodes=962512
+shape ((((((LL)(LL))((LL)(LL)))(LL))((((LL)(LL))(LL))(((LL)L)L)))((((LL)L)L)(((LL)L)L))) configs=473740 feasible=0 nodes=962512
+shape ((((((LL)L)((LL)L))(((LL)L)L))((((LL)L)((LL)L))((LL)(LL))))((((LL)L)L)(((LL)L)L))) configs=1172536 feasible=0 nodes=2382377
+shape ((((((LL)(LL))((LL)(LL)))(((LL)(LL))(LL)))((((LL)(LL))L)L))((((LL)L)L)((LL)(LL)))) configs=199558 feasible=0 nodes=408539
+shape ((((((LL)(LL))((LL)(LL)))(((LL)L)(LL)))((((LL)(LL))L)(LL)))((((LL)L)L)((LL)(LL)))) configs=997891 feasible=0 nodes=2043189
+shape ((((((LL)(LL))((LL)L))(((LL)(LL))L))((((LL)(LL))(LL))(LL)))((((LL)L)L)((LL)(LL)))) configs=997891 feasible=0 nodes=2043189
+EXIT 143
+==> s13.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)(LL))((LL)L))(((LL)L)(LL)))(((LL)(LL))((LL)(LL))))((((LL)L)(LL))((LL)L))) configs=8687449 feasible=0 nodes=17752852
+EXIT 143
+==> s14.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)(LL))((LL)(LL)))(((LL)L)(LL)))((((LL)L)((LL)L))L))((((LL)L)(LL))((LL)L))) configs=777948 feasible=0 nodes=1588036
+shape ((((((LL)(LL))((LL)(LL)))((LL)(LL)))((((LL)L)(LL))((LL)L)))((((LL)L)(LL))((LL)L))) configs=9984086 feasible=0 nodes=20382121
+EXIT 143
+==> s15.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)(LL))L)(((LL)L)((LL)L)))((((LL)(LL))L)((LL)(LL))))((((LL)L)(LL))((LL)L))) configs=2406851 feasible=0 nodes=4913358
+shape ((((((LL)(LL))((LL)L))((LL)L))((((LL)(LL))L)(((LL)(LL))L)))((((LL)L)(LL))((LL)L))) configs=1361434 feasible=0 nodes=2779181
+shape ((((((LL)L)((LL)L))((LL)(LL)))((((LL)L)(LL))(((LL)L)(LL))))((((LL)L)(LL))((LL)L))) configs=9627514 feasible=0 nodes=19654046
+shape ((((((LL)(LL))((LL)(LL)))(((LL)(LL))(LL)))(((LL)L)((LL)L)))((((LL)L)L)(((LL)L)L))) configs=852746 feasible=0 nodes=1734362
+EXIT 143
+==> s16.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)(LL))((LL)(LL)))(((LL)(LL))L))((((LL)L)L)((LL)L)))((((LL)(LL))L)((LL)L))) configs=650129 feasible=0 nodes=1331888
+shape ((((((LL)(LL))(LL))(((LL)L)((LL)L)))((((LL)L)L)(((LL)L)L)))((((LL)(LL))L)((LL)L))) configs=650132 feasible=0 nodes=1331907
+shape ((((((LL)(LL))L)(((LL)L)((LL)L)))((((LL)(LL))L)(((LL)L)L)))((((LL)(LL))L)((LL)L))) configs=417932 feasible=0 nodes=856165
+shape ((((((LL)L)((LL)L))(((LL)L)L))((((LL)L)((LL)L))(((LL)L)L)))((((LL)(LL))L)((LL)L))) configs=441154 feasible=0 nodes=903752
+shape ((((((LL)(LL))((LL)L))(((LL)L)((LL)L)))((((LL)L)((LL)L))L))((((LL)L)(LL))((LL)L))) configs=583453 feasible=0 nodes=1190983
+shape ((((((LL)(LL))((LL)L))(((LL)L)(LL)))((((LL)L)(LL))((LL)L)))((((LL)L)(LL))((LL)L))) configs=14522325 feasible=0 nodes=29646542
+shape ((((((LL)(LL))((LL)L))((LL)(LL)))((((LL)L)((LL)L))((LL)L)))((((LL)L)(LL))((LL)L))) configs=7488055 feasible=0 nodes=15286527
+EXIT 143
+==> s17.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)(LL))((LL)L))((LL)L))((((LL)L)(LL))(((LL)L)(LL))))((((LL)L)(LL))((LL)L))) configs=8168792 feasible=0 nodes=16676103
+shape ((((((LL)(LL))((LL)L))(((LL)(LL))((LL)L)))(((LL)L)((LL)L)))((((LL)L)L)(((LL)L)L))) configs=639555 feasible=0 nodes=1300740
+shape ((((((LL)(LL))((LL)L))(((LL)(LL))L))((((LL)(LL))L)((LL)L)))((((LL)L)L)(((LL)L)L))) configs=497427 feasible=0 nodes=1010621
+shape ((((((LL)(LL))((LL)L))(((LL)L)L))((((LL)(LL))(LL))((LL)L)))((((LL)L)L)(((LL)L)L))) configs=1326505 feasible=0 nodes=2695214
+shape ((((((LL)(LL))((LL)(LL)))(LL))((((LL)(LL))L)(((LL)L)(LL))))((((LL)L)L)(((LL)L)L))) configs=473740 feasible=0 nodes=962512
+shape ((((((LL)(LL))((LL)L))(((LL)(LL))((LL)L)))((((LL)L)(LL))L))((((LL)L)L)((LL)(LL)))) configs=399141 feasible=0 nodes=817200
+shape ((((((LL)(LL))((LL)L))(((LL)(LL))(LL)))((((LL)L)(LL))(LL)))((((LL)L)L)((LL)(LL)))) configs=2661089 feasible=0 nodes=5448760
+shape ((((((LL)(LL))((LL)(LL)))(((LL)L)L))((((LL)L)((LL)L))(LL)))((((LL)L)L)((LL)(LL)))) configs=748412 feasible=0 nodes=1532363
+shape ((((((LL)(LL))((LL)L))(((LL)L)(LL)))((((LL)L)L)(((LL)L)L)))((((LL)L)L)((LL)(LL)))) configs=1397060 feasible=0 nodes=2860531
+shape ((((((LL)(LL))((LL)(LL)))L)((((LL)L)((LL)L))(((LL)L)(LL))))((((LL)L)L)((LL)(LL)))) configs=399141 feasible=0 nodes=817200
+shape ((((((LL)(LL))((LL)L))((LL)(LL)))((((LL)(LL))L)(((LL)L)L)))((((LL)L)L)((LL)(LL)))) configs=1646539 feasible=0 nodes=3371365
+EXIT 143
+==> s18.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)(LL))(LL))(((LL)L)((LL)L)))((((LL)L)(LL))((LL)L)))((((LL)L)(LL))((LL)L))) configs=10891734 feasible=0 nodes=22234851
+shape ((((((LL)(LL))L)(((LL)L)((LL)L)))((((LL)L)((LL)L))((LL)L)))((((LL)L)(LL))((LL)L))) configs=3063273 feasible=0 nodes=6253399
+shape ((((((LL)(LL))((LL)(LL)))((LL)L))((((LL)L)(LL))((LL)(LL))))((((LL)L)(LL))((LL)L))) configs=9984086 feasible=0 nodes=20383495
+EXIT 143
+==> s19.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)((LL)L))(((LL)L)((LL)L)))((((LL)L)(LL))((LL)L)))((((LL)L)(LL))((LL)L))) configs=5445848 feasible=0 nodes=11117320
+shape ((((((LL)(LL))(LL))(((LL)L)(LL)))((((LL)L)((LL)L))((LL)L)))((((LL)L)(LL))((LL)L))) configs=10891734 feasible=0 nodes=22234851
+shape ((((((LL)(LL))(LL))(((LL)L)L))((((LL)L)((LL)L))(((LL)L)L)))((((LL)L)(LL))((LL)L))) configs=3500890 feasible=0 nodes=7146767
+shape ((((((LL)(LL))((LL)(LL)))(((LL)L)(LL)))((((LL)(LL))(LL))L))((((LL)L)L)(((LL)L)L))) configs=252653 feasible=0 nodes=513291
+shape ((((((LL)(LL))(LL))(((LL)(LL))(LL)))((((LL)(LL))L)((LL)L)))((((LL)L)L)(((LL)L)L))) configs=829059 feasible=0 nodes=1684470
+shape ((((((LL)(LL))(LL))(((LL)(LL))L))((((LL)(LL))(LL))((LL)L)))((((LL)L)L)(((LL)L)L))) configs=1326505 feasible=0 nodes=2695216
+EXIT 143
+==> s20.log <==
+N=28 L=11 H=6 shapes=62641
+EXIT 143
+==> s21.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)(LL))(LL))(((LL)(LL))L))((((LL)L)(LL))((LL)(LL))))((((LL)L)(LL))((LL)L))) configs=8557784 feasible=0 nodes=17470202
+EXIT 143
+==> s22.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)(LL))((LL)(LL)))((LL)L))((((LL)L)(LL))(((LL)L)L)))((((LL)L)L)((LL)(LL)))) configs=2794144 feasible=0 nodes=5721193
+shape ((((((LL)(LL))L)(((LL)(LL))L))((((LL)L)((LL)L))(((LL)L)L)))((((LL)L)L)((LL)(LL)))) configs=449038 feasible=0 nodes=919365
+shape ((((((LL)(LL))((LL)L))(((LL)(LL))(LL)))((((LL)(LL))L)(LL)))(((LL)(LL))((LL)(LL)))) configs=546703 feasible=0 nodes=1142712
+shape ((((((LL)L)((LL)L))(((LL)L)((LL)L)))((((LL)L)(LL))((LL)L)))(((LL)(LL))((LL)(LL)))) configs=1530797 feasible=0 nodes=3199777
+shape ((((((LL)(LL))((LL)(LL)))L)((((LL)(LL))((LL)L))((LL)(LL))))(((LL)(LL))((LL)(LL)))) configs=200449 feasible=0 nodes=420375
+EXIT 143
+==> s23.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)(LL))(LL))((LL)(LL)))((((LL)L)((LL)L))((LL)(LL))))((((LL)(LL))L)((LL)L))) configs=3746128 feasible=0 nodes=7675120
+shape ((((((LL)(LL))((LL)L))(((LL)(LL))(LL)))((((LL)L)(LL))(LL)))((((LL)L)(LL))((LL)L))) configs=5186520 feasible=0 nodes=10587910
+shape ((((((LL)(LL))((LL)L))(((LL)L)(LL)))((((LL)L)L)(((LL)L)L)))((((LL)L)(LL))((LL)L))) configs=2722907 feasible=0 nodes=5558563
+shape ((((((LL)(LL))((LL)L))((LL)(LL)))((((LL)(LL))L)(((LL)L)L)))((((LL)L)(LL))((LL)L))) configs=3209146 feasible=0 nodes=6551197
+EXIT 143

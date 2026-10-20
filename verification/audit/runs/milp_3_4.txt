@@ -1,0 +1,16 @@
+N=3 L=4 H=3 ordered trees=2 unordered=1
+CFG k0(k0(k0L,k0L),k0L) feasible
+CFG k0(k0(k0L,k1L),k0L) infeasible
+CFG k0(k0(k1L,k1L),k0L) infeasible
+CFG k0(k0L,k1(k0L,k0L)) feasible
+CFG k0(k0(k0L,k0L),k1L) feasible
+CFG k0(k0(k0L,k1L),k1L) infeasible
+CFG k0(k0(k1L,k1L),k1L) infeasible
+CFG k0(k1(k0L,k0L),k1L) feasible
+CFG k0(k0(k0L,k0L),k2L) feasible
+CFG k0(k0(k0L,k1L),k2L) infeasible
+CFG k0(k0(k1L,k1L),k2L) infeasible
+CFG k0(k1(k0L,k0L),k2L) infeasible
+CFG k1(k0(k0L,k0L),k0L) feasible
+CFG k1(k0(k0L,k0L),k1L) feasible
+TOTAL N=3 L=4 configs=14 feasible_configs=7 other=0 time=0.1s

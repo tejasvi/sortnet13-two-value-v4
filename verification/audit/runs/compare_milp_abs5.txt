@@ -1,0 +1,22 @@
+N,L=11_8 abs5: 125 configs, 2 feasible | MILP: 125 configs, 2 feasible | feasible sets IDENTICAL
+N,L=12_8 abs5: 67 configs, 0 feasible | MILP: 67 configs, 0 feasible | feasible sets IDENTICAL
+N,L=13_8 abs5: 25 configs, 0 feasible | MILP: 25 configs, 0 feasible | feasible sets IDENTICAL
+N,L=3_3 abs5: 2 configs, 2 feasible | MILP: 2 configs, 2 feasible | feasible sets IDENTICAL
+N,L=3_4 abs5: 11 configs, 7 feasible | MILP: 14 configs, 7 feasible | feasible sets IDENTICAL
+N,L=4_4 abs5: 1 configs, 1 feasible | MILP: 1 configs, 1 feasible | feasible sets IDENTICAL
+N,L=4_5 abs5: 17 configs, 14 feasible | MILP: 17 configs, 14 feasible | feasible sets IDENTICAL
+N,L=5_5 abs5: 11 configs, 0 feasible | MILP: 11 configs, 0 feasible | feasible sets IDENTICAL
+N,L=5_6 abs5: 131 configs, 44 feasible | MILP: 219 configs, 44 feasible | feasible sets IDENTICAL
+N,L=6_6 abs5: 7 configs, 7 feasible | MILP: 7 configs, 7 feasible | feasible sets IDENTICAL
+N,L=7_6 abs5: 2 configs, 0 feasible | MILP: 2 configs, 0 feasible | feasible sets IDENTICAL
+N,L=7_7 abs5: 378 configs, 73 feasible | MILP: 378 configs, 73 feasible | feasible sets IDENTICAL
+N,L=8_6 abs5: 1 configs, 0 feasible | MILP: 1 configs, 0 feasible | feasible sets IDENTICAL
+N,L=8_7 abs5: 386 configs, 3 feasible | MILP: 386 configs, 3 feasible | feasible sets IDENTICAL
+N,L=9_7 abs5: 309 configs, 0 feasible | MILP: 309 configs, 0 feasible | feasible sets IDENTICAL
+TOTAL N=12 L=8 configs=1512 feasible_configs=0 other=0 time=56.1s
+TOTAL N=13 L=8 configs=508 feasible_configs=0 other=0 time=23.8s
+TOTAL N=3 L=4 configs=34 feasible_configs=14 other=0 time=0.2s
+TOTAL N=4 L=5 configs=50 feasible_configs=41 other=0 time=0.4s
+TOTAL N=5 L=6 configs=1398 feasible_configs=244 other=0 time=25.4s
+TOTAL N=6 L=6 configs=26 feasible_configs=26 other=0 time=0.2s
+TOTAL N=9 L=7 configs=6600 feasible_configs=0 other=0 time=232.9s

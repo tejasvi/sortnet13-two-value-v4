@@ -1,0 +1,4 @@
+N=8 L=6 H=3 shapes=1
+SYMBREAK 0
+shape (((LL)(LL))((LL)(LL))) configs=1 feasible=0 nodes=1
+TOTAL configs=1 leaves=0 feasible=0 simfail=0

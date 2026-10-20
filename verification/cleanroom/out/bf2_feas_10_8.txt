@@ -1,0 +1,2 @@
+N=10 L=8 kraft=1 allor=0 lim=5040 : FEASIBLE  states=43543 nodes=43543 time=4.67s
+witness: 0,1 0,1 2,3 0,2 4,5 0,4 2,4 3,5 1,5 1,4 6,7 8,9 6,8 7,9 5,9 7,8 3,8 5,8 4,8

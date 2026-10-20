@@ -1,0 +1,23 @@
+N3_L2    shapes    0  TOTAL abs9f (0, 0, 0, 0)  abs9 (0, 0, 0, 0)  same: True
+N3_L3    shapes    1  TOTAL abs9f (2, 2, 2, 0)  abs9 (2, 2, 2, 0)  same: True
+N4_L3    shapes    0  TOTAL abs9f (0, 0, 0, 0)  abs9 (0, 0, 0, 0)  same: True
+N4_L4    shapes    1  TOTAL abs9f (1, 1, 1, 0)  abs9 (1, 1, 1, 0)  same: True
+N5_L5    shapes    2  TOTAL abs9f (9, 0, 0, 0)  abs9 (9, 0, 0, 0)  same: True
+N5_L6    shapes    3  TOTAL abs9f (125, 18098, 278, 0)  abs9 (125, 18098, 278, 0)  same: True
+N6_L5    shapes    0  TOTAL abs9f (0, 0, 0, 0)  abs9 (0, 0, 0, 0)  same: True
+N6_L6    shapes    2  TOTAL abs9f (7, 51, 21, 0)  abs9 (7, 51, 21, 0)  same: True
+N7_L6    shapes    1  TOTAL abs9f (2, 0, 0, 0)  abs9 (2, 0, 0, 0)  same: True
+N7_L7    shapes    6  TOTAL abs9f (367, 63913, 923, 0)  abs9 (367, 63913, 923, 0)  same: True
+N8_L6    shapes    1  TOTAL abs9f (1, 0, 0, 0)  abs9 (1, 0, 0, 0)  same: True
+N8_L7    shapes    8  TOTAL abs9f (362, 3121, 29, 0)  abs9 (362, 3121, 29, 0)  same: True
+N9_L7    shapes    8  TOTAL abs9f (272, 0, 0, 0)  abs9 (272, 0, 0, 0)  same: True
+N9_L8    shapes   25  TOTAL abs9f (15202, 177404215, 115431, 0)  abs9 (15202, 177404215, 115431, 0)  same: True
+N10_L7   shapes    0  TOTAL abs9f (0, 0, 0, 0)  abs9 (0, 0, 0, 0)  same: True
+N10_L8   shapes    9  TOTAL abs9f (223, 485542, 2136, 0)  abs9 (223, 485542, 2136, 0)  same: True
+N11_L7   shapes    0  TOTAL abs9f (0, 0, 0, 0)  abs9 (0, 0, 0, 0)  same: True
+N11_L8   shapes    7  TOTAL abs9f (125, 1282, 4, 0)  abs9 (125, 1282, 4, 0)  same: True
+N12_L8   shapes    7  TOTAL abs9f (67, 0, 0, 0)  abs9 (67, 0, 0, 0)  same: True
+N13_L8   shapes    4  TOTAL abs9f (25, 0, 0, 0)  abs9 (25, 0, 0, 0)  same: True
+N17_L9   shapes  187  TOTAL abs9f (260907, 0, 0, 0)  abs9 (260907, 0, 0, 0)  same: True
+N21_L10  shapes  177  TOTAL abs9f (62879, 0, 0, 0)  abs9 (62879, 0, 0, 0)  same: True
+22 runs; ALL EQUAL

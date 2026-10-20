@@ -1,0 +1,4 @@
+nodes=1048576 seen=1048576 depth=19
+nodes=2097152 seen=2097152 depth=15
+nodes=3145728 seen=3145728 depth=16
+nodes=4194304 seen=4194304 depth=21

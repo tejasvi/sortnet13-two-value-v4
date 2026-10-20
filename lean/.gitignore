@@ -1,0 +1,5 @@
+/.lake/
+*.olean
+*.ilean
+PROGRESS.md
+/data/s11/*.s7

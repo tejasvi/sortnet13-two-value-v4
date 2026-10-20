@@ -1,0 +1,5 @@
+N=5 L=5 H=3 shapes=2
+SYMBREAK 1
+shape (((LL)(LL))L) configs=3 feasible=0 nodes=11
+shape (((LL)L)(LL)) configs=6 feasible=0 nodes=15
+TOTAL configs=9 leaves=0 feasible=0 simfail=0

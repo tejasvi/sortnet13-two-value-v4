@@ -1,0 +1,4 @@
+N=3 L=3 H=2 ordered trees=2 unordered=1
+CFG k0(k0(k0L,k0L),k0L) feasible
+CFG k0(k0(k0L,k0L),k1L) feasible
+TOTAL N=3 L=3 configs=2 feasible_configs=2 other=0 time=0.0s

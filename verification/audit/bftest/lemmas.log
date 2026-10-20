@@ -1,0 +1,10 @@
+lb2badViol=707 N=4 nets=2000 prefixes=12188 lbViol=0 lb2Viol=0 symmetryTrials=400000 symFail=0
+lb2badViol=719 N=5 nets=2000 prefixes=16302 lbViol=0 lb2Viol=0 symmetryTrials=400000 symFail=0
+lb2badViol=583 N=6 nets=2000 prefixes=20375 lbViol=0 lb2Viol=0 symmetryTrials=400000 symFail=0
+lb2badViol=522 N=7 nets=2000 prefixes=24467 lbViol=0 lb2Viol=0 symmetryTrials=400000 symFail=0
+lb2badViol=544 N=8 nets=2000 prefixes=28549 lbViol=0 lb2Viol=0 symmetryTrials=400000 symFail=0
+lb2badViol=497 N=9 nets=2109 prefixes=42899 lbViol=0 lb2Viol=0 symmetryTrials=421800 symFail=0
+lb2badViol=451 N=10 nets=2000 prefixes=36659 lbViol=0 lb2Viol=0 symmetryTrials=400000 symFail=0
+lb2badViol=471 N=11 nets=2001 prefixes=40666 lbViol=0 lb2Viol=0 symmetryTrials=400200 symFail=0
+lb2badViol=452 N=12 nets=2099 prefixes=55535 lbViol=0 lb2Viol=0 symmetryTrials=419800 symFail=0
+lb2badViol=480 N=13 nets=2160 prefixes=73901 lbViol=0 lb2Viol=0 symmetryTrials=432000 symFail=0

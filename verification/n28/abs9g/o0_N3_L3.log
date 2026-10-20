@@ -1,0 +1,8 @@
+N=3 L=3 H=2 shapes=1
+  feasible: shape=((LL)L) maxcost=3 (sim ok)
+  feasible: shape=((LL)L) maxcost=3 (sim ok)
+SYMBREAK 0
+ORB ((LL)L) cfg=1 size=1 : 0,1 0,1
+ORB ((LL)L) cfg=2 size=1 : 0,0 1,0 -1,0
+shape ((LL)L) configs=2 feasible=2 nodes=8
+TOTAL configs=2 leaves=2 feasible=2 simfail=0

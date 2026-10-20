@@ -1,0 +1,32 @@
+N3_L2    (1) SYMBREAK=0 equals abs9f: True; (2) skeletons equal: True, feasible in the same shapes: True, feasible configurations 0 -> 0, mismatches 0
+N3_L3    (1) SYMBREAK=0 equals abs9f: True; (2) skeletons equal: True, feasible in the same shapes: True, feasible configurations 2 -> 2, mismatches 0
+N4_L3    (1) SYMBREAK=0 equals abs9f: True; (2) skeletons equal: True, feasible in the same shapes: True, feasible configurations 0 -> 0, mismatches 0
+N4_L4    (1) SYMBREAK=0 equals abs9f: True; (2) skeletons equal: True, feasible in the same shapes: True, feasible configurations 1 -> 1, mismatches 0
+N5_L5    (1) SYMBREAK=0 equals abs9f: True; (2) skeletons equal: True, feasible in the same shapes: True, feasible configurations 0 -> 0, mismatches 0
+N5_L6    (1) SYMBREAK=0 equals abs9f: True; (2) skeletons equal: True, feasible in the same shapes: True, feasible configurations 278 -> 223, mismatches 0
+N6_L5    (1) SYMBREAK=0 equals abs9f: True; (2) skeletons equal: True, feasible in the same shapes: True, feasible configurations 0 -> 0, mismatches 0
+N6_L6    (1) SYMBREAK=0 equals abs9f: True; (2) skeletons equal: True, feasible in the same shapes: True, feasible configurations 21 -> 16, mismatches 0
+N7_L6    (1) SYMBREAK=0 equals abs9f: True; (2) skeletons equal: True, feasible in the same shapes: True, feasible configurations 0 -> 0, mismatches 0
+N7_L7    (1) SYMBREAK=0 equals abs9f: True; (2) skeletons equal: True, feasible in the same shapes: True, feasible configurations 923 -> 662, mismatches 0
+N8_L6    (1) SYMBREAK=0 equals abs9f: True; (2) skeletons equal: True, feasible in the same shapes: True, feasible configurations 0 -> 0, mismatches 0
+N8_L7    (1) SYMBREAK=0 equals abs9f: True; (2) skeletons equal: True, feasible in the same shapes: True, feasible configurations 29 -> 10, mismatches 0
+N9_L7    (1) SYMBREAK=0 equals abs9f: True; (2) skeletons equal: True, feasible in the same shapes: True, feasible configurations 0 -> 0, mismatches 0
+N9_L8    (1) SYMBREAK=0 equals abs9f: True; (2) skeletons equal: True, feasible in the same shapes: True, feasible configurations 115431 -> 54158, mismatches 0
+N10_L7   (1) SYMBREAK=0 equals abs9f: True; (2) skeletons equal: True, feasible in the same shapes: True, feasible configurations 0 -> 0, mismatches 0
+N10_L8   (1) SYMBREAK=0 equals abs9f: True; (2) skeletons equal: True, feasible in the same shapes: True, feasible configurations 2136 -> 853, mismatches 0
+N11_L7   (1) SYMBREAK=0 equals abs9f: True; (2) skeletons equal: True, feasible in the same shapes: True, feasible configurations 0 -> 0, mismatches 0
+N11_L8   (1) SYMBREAK=0 equals abs9f: True; (2) skeletons equal: True, feasible in the same shapes: True, feasible configurations 4 -> 3, mismatches 0
+N12_L8   (1) SYMBREAK=0 equals abs9f: True; (2) skeletons equal: True, feasible in the same shapes: True, feasible configurations 0 -> 0, mismatches 0
+N13_L8   (1) SYMBREAK=0 equals abs9f: True; (2) skeletons equal: True, feasible in the same shapes: True, feasible configurations 0 -> 0, mismatches 0
+N17_L9   (1) SYMBREAK=0 equals abs9f: True; (2) skeletons equal: True, feasible in the same shapes: True, feasible configurations 0 -> 0, mismatches 0
+N21_L10  (1) SYMBREAK=0 equals abs9f: True; (2) skeletons equal: True, feasible in the same shapes: True, feasible configurations 0 -> 0, mismatches 0
+N3_L3    (3) classes without / with the symmetry test: 2 / 2 (feasible assignments 2 / 2); same classes: True
+N4_L4    (3) classes without / with the symmetry test: 1 / 1 (feasible assignments 1 / 1); same classes: True
+N5_L6    (3) classes without / with the symmetry test: 223 / 223 (feasible assignments 278 / 223); same classes: True
+N6_L6    (3) classes without / with the symmetry test: 16 / 16 (feasible assignments 21 / 16); same classes: True
+N7_L7    (3) classes without / with the symmetry test: 662 / 662 (feasible assignments 923 / 662); same classes: True
+N8_L7    (3) classes without / with the symmetry test: 10 / 10 (feasible assignments 29 / 10); same classes: True
+N9_L8    (3) classes without / with the symmetry test: 53578 / 53578 (feasible assignments 115431 / 54158); same classes: True
+N10_L8   (3) classes without / with the symmetry test: 843 / 843 (feasible assignments 2136 / 853); same classes: True
+N11_L8   (3) classes without / with the symmetry test: 3 / 3 (feasible assignments 4 / 3); same classes: True
+ALL CHECKS PASSED

@@ -1,0 +1,6 @@
+build/
+__pycache__/
+verification/cleanroom/bf2
+verification/audit/p2canon
+verification/audit/bftest/bflemmas
+.lake/

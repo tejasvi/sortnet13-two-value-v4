@@ -1,0 +1,13 @@
+N=11 L=8 H=4 shapes=7
+shape ((((LL)(LL))((LL)(LL)))((LL)L)) configs=14 feasible=0 nodes=2247964
+shape ((((LL)(LL))((LL)L))(((LL)L)L)) configs=12 feasible=0 nodes=19044064
+  feasible: shape=((((LL)(LL))((LL)L))((LL)(LL))) maxcost=8 (sim ok)
+  feasible: shape=((((LL)(LL))((LL)L))((LL)(LL))) maxcost=8 (sim ok)
+shape ((((LL)(LL))((LL)L))((LL)(LL))) configs=22 feasible=4 nodes=24684574
+shape ((((LL)(LL))(LL))(((LL)(LL))L)) configs=12 feasible=0 nodes=45999732
+shape ((((LL)(LL))L)(((LL)L)((LL)L))) configs=9 feasible=0 nodes=24287038
+shape ((((LL)(LL))(LL))(((LL)L)(LL))) configs=32 feasible=0 nodes=42056556
+shape ((((LL)L)((LL)L))(((LL)L)(LL))) configs=24 feasible=0 nodes=21857626
+TOTAL configs=125 leaves=110357461 feasible=4 simfail=0
+WALL 12.71 s
+EXIT 0

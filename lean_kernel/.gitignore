@@ -1,0 +1,7 @@
+/.lake/
+*.olean
+*.ilean
+PROGRESS.md
+/gen/certgen
+/gen/*.txt
+/negctl/data/

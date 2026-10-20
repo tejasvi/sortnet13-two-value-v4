@@ -1,0 +1,1 @@
+N=12 L=8 feasible=0 nodes=529627626 memo=16059770 time=225.4s

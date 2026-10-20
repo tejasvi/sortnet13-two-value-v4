@@ -1,0 +1,11 @@
+N=12 L=8 H=4 shapes=7
+shape ((((LL)(LL))((LL)(LL)))(((LL)L)L)) configs=6 feasible=0 nodes=626
+shape ((((LL)(LL))((LL)(LL)))((LL)(LL))) configs=11 feasible=0 nodes=10610
+shape ((((LL)(LL))((LL)L))(((LL)(LL))L)) configs=6 feasible=0 nodes=19299
+shape ((((LL)(LL))((LL)L))(((LL)L)(LL))) configs=16 feasible=0 nodes=20740
+shape ((((LL)(LL))(LL))(((LL)(LL))(LL))) configs=10 feasible=0 nodes=57869
+shape ((((LL)(LL))(LL))(((LL)L)((LL)L))) configs=12 feasible=0 nodes=21052
+shape ((((LL)L)((LL)L))(((LL)L)((LL)L))) configs=6 feasible=0 nodes=72
+TOTAL configs=67 leaves=57650 feasible=0 simfail=0
+WALL 0.01 s
+EXIT 0

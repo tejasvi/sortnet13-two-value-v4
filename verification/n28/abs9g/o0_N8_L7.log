@@ -1,0 +1,42 @@
+N=8 L=7 H=4 shapes=8
+SYMBREAK 0
+shape ((((LL)(LL))((LL)L))L) configs=8 feasible=0 nodes=66
+shape ((((LL)(LL))(LL))(LL)) configs=37 feasible=0 nodes=163
+shape ((((LL)L)((LL)L))(LL)) configs=27 feasible=0 nodes=95
+shape ((((LL)(LL))L)((LL)L)) configs=37 feasible=0 nodes=148
+shape ((((LL)L)(LL))((LL)L)) configs=105 feasible=0 nodes=286
+shape ((((LL)L)L)(((LL)L)L)) configs=18 feasible=0 nodes=42
+shape ((((LL)L)L)((LL)(LL))) configs=63 feasible=0 nodes=192
+  feasible: shape=(((LL)(LL))((LL)(LL))) maxcost=7 (sim ok)
+  feasible: shape=(((LL)(LL))((LL)(LL))) maxcost=7 (sim ok)
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=1 : 0,1 0,3 0,3 0,4 0,4 0,4 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=1 : 0,2 0,2 0,2 0,4 0,4 0,4 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=2 : 0,2 0,2 0,3 0,3 0,3 0,4 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=8 : 0,2 0,2 0,3 0,3 0,4 0,3 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=8 : 0,2 0,2 0,3 0,3 0,4 0,3 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=8 : 0,2 0,2 0,3 0,3 0,4 0,3 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=8 : 0,2 0,2 0,3 0,3 0,4 0,3 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=2 : 0,2 0,2 0,3 0,4 0,4 0,3 0,3
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=2 : 0,2 0,2 0,3 0,4 0,4 0,3 0,3
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=8 : 0,2 0,2 0,3 0,3 0,4 0,3 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=8 : 0,2 0,2 0,3 0,3 0,4 0,3 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=8 : 0,2 0,2 0,3 0,3 0,4 0,3 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=8 : 0,2 0,2 0,3 0,3 0,4 0,3 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=2 : 0,2 0,2 0,3 0,3 0,3 0,4 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=4 : 0,2 0,3 0,3 0,2 0,3 0,4 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=8 : 0,2 0,3 0,3 0,2 0,4 0,3 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=8 : 0,2 0,3 0,3 0,2 0,4 0,3 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=4 : 0,2 0,3 0,3 0,2 0,3 0,4 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=1 : 0,2 0,3 0,3 0,3 0,3 0,3 0,3
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=8 : 0,2 0,3 0,3 0,2 0,4 0,3 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=8 : 0,2 0,3 0,3 0,2 0,4 0,3 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=8 : 0,2 0,3 0,3 0,2 0,4 0,3 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=8 : 0,2 0,3 0,3 0,2 0,4 0,3 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=8 : 0,2 0,3 0,3 0,2 0,4 0,3 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=8 : 0,2 0,3 0,3 0,2 0,4 0,3 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=4 : 0,2 0,3 0,3 0,2 0,3 0,4 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=296 size=4 : 0,2 0,3 0,3 0,2 0,3 0,4 0,4
+ORB (((LL)(LL))((LL)(LL))) cfg=298 size=1 : 0,1 0,2 1,1 0,3 0,3 1,2 1,2 -1,0
+ORB (((LL)(LL))((LL)(LL))) cfg=301 size=1 : 0,0 2,1 1,1 2,2 2,2 1,2 1,2 -1,0 -1,0
+shape (((LL)(LL))((LL)(LL))) configs=67 feasible=29 nodes=9793
+TOTAL configs=362 leaves=3121 feasible=29 simfail=0

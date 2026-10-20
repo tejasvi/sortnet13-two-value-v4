@@ -1,0 +1,1 @@
+CFG k0(k0(k0L,k0L),k0(k0L,k0L)) feasible

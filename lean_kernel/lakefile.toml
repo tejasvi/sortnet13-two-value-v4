@@ -1,0 +1,27 @@
+name = "S13Kernel"
+version = "0.1.0"
+defaultTargets = ["S13Kernel"]
+
+[leanOptions]
+pp.unicode.fun = true
+relaxedAutoImplicit = false
+weak.linter.style.header = false
+maxSynthPendingDepth = 3
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.35.0-rc3"
+
+# Verbatim copies of the native_decide-free modules of the native_decide project (lean/ in the release
+# repository, commit a07e626; see VENDORED_FROM_s13.sha256).
+[[lean_lib]]
+name = "S13Comp"
+
+[[lean_lib]]
+name = "S13"
+globs = ["S13.+"]
+
+# Kernel-only certificate check (this project).
+[[lean_lib]]
+name = "S13Kernel"

@@ -1,0 +1,7 @@
+shapes: 62641; covered 62641; by the shards 62522, by abs9f in 64 shares 102, by abs9g 17
+logs: shards 4096, split102 6528, sym17 80541 (of which 1 repeat a share with the same result line)
+abs9g, logs used, by kind of share: parts 1070, sub-parts 1119, DFS shares 1000, level-2 DFS shares 7976, level-3 DFS shares 9038, level-4 DFS shares 9602, level-5 DFS shares 12112
+abs9g, units split, by kind of split: dsplit 40@5 33, dsplit2 64@12 104, dsplit2 8@10 216, dsplit3 32@16 287, dsplit3 4@14 121, dsplit4 16@18 630, dsplit5 512@24 4, dsplit5 64@22 112, dsplit5 8@20 362, sub 18
+totals: skeletons 262,417,641,559; search nodes 30,972,138,194,473; complete assignments 12,416,681,168,846
+earlier run: 62522 shapes, no feasible configuration; skeleton counts agree with the shards on 62975 shape lines of abs9, abs9m and abs9c, disagree on 0
+ALL N=28 CHECKS PASSED

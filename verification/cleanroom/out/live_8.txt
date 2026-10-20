@@ -1,0 +1,6 @@
+N=8 L=6 states=630513 live=0 | live failing Kraft=0, live failing P1=0 | dead states cut by Kraft=630477, by P1=536893 | root live=0
+34.07s 298040KB
+N=8 L=7 states=3017935 live=490 | live failing Kraft=0, live failing P1=0 | dead states cut by Kraft=3014165, by P1=2387421 | root live=1
+230.70s 1488936KB
+N=8 L=8 states=11465076 live=25115 | live failing Kraft=0, live failing P1=0 | dead states cut by Kraft=11371081, by P1=8447140 | root live=1
+1117.81s 5475404KB

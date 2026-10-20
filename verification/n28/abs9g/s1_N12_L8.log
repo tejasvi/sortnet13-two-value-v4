@@ -1,0 +1,10 @@
+N=12 L=8 H=4 shapes=7
+SYMBREAK 1
+shape ((((LL)(LL))((LL)(LL)))(((LL)L)L)) configs=6 feasible=0 nodes=48
+shape ((((LL)(LL))((LL)(LL)))((LL)(LL))) configs=11 feasible=0 nodes=110
+shape ((((LL)(LL))((LL)L))(((LL)(LL))L)) configs=6 feasible=0 nodes=53
+shape ((((LL)(LL))((LL)L))(((LL)L)(LL))) configs=16 feasible=0 nodes=100
+shape ((((LL)(LL))(LL))(((LL)(LL))(LL))) configs=10 feasible=0 nodes=67
+shape ((((LL)(LL))(LL))(((LL)L)((LL)L))) configs=12 feasible=0 nodes=73
+shape ((((LL)L)((LL)L))(((LL)L)((LL)L))) configs=6 feasible=0 nodes=31
+TOTAL configs=67 leaves=0 feasible=0 simfail=0

@@ -1,0 +1,15 @@
+abs9f N=5 L=6: shapes 3, skeletons 125, feasible 278, complete assignments 18098; CFGSPLIT True, +CFGSPLIT2 True, DFSSPLIT True, +DFSSPLIT2 True, all four True
+abs9f N=7 L=7: shapes 6, skeletons 367, feasible 923, complete assignments 63913; CFGSPLIT True, +CFGSPLIT2 True, DFSSPLIT True, +DFSSPLIT2 True, all four True
+abs9f N=8 L=7: shapes 8, skeletons 362, feasible 29, complete assignments 3121; CFGSPLIT True, +CFGSPLIT2 True, DFSSPLIT True, +DFSSPLIT2 True, all four True
+abs9f N=10 L=8: shapes 9, skeletons 223, feasible 2136, complete assignments 485542; CFGSPLIT True, +CFGSPLIT2 True, DFSSPLIT True, +DFSSPLIT2 True, all four True
+abs9f N=11 L=8: shapes 7, skeletons 125, feasible 4, complete assignments 1282; CFGSPLIT True, +CFGSPLIT2 True, DFSSPLIT True, +DFSSPLIT2 True, all four True
+abs9f N=17 L=9: shapes 187, skeletons 260907, feasible 0, complete assignments 0; CFGSPLIT True, +CFGSPLIT2 True, DFSSPLIT True, +DFSSPLIT2 True, all four True
+abs9f N=21 L=10: shapes 177, skeletons 62879, feasible 0, complete assignments 0; CFGSPLIT True, +CFGSPLIT2 True, DFSSPLIT True, +DFSSPLIT2 True, all four True
+abs9g N=5 L=6: shapes 3, skeletons 125, feasible 223, complete assignments 13237; CFGSPLIT True, +CFGSPLIT2 True, DFSSPLIT True, +DFSSPLIT2 True, all four True
+abs9g N=7 L=7: shapes 6, skeletons 367, feasible 662, complete assignments 38498; CFGSPLIT True, +CFGSPLIT2 True, DFSSPLIT True, +DFSSPLIT2 True, all four True, five DFS levels True, all seven True
+abs9g N=8 L=7: shapes 8, skeletons 362, feasible 10, complete assignments 823; CFGSPLIT True, +CFGSPLIT2 True, DFSSPLIT True, +DFSSPLIT2 True, all four True, five DFS levels True, all seven True
+abs9g N=10 L=8: shapes 9, skeletons 223, feasible 853, complete assignments 154035; CFGSPLIT True, +CFGSPLIT2 True, DFSSPLIT True, +DFSSPLIT2 True, all four True, five DFS levels True, all seven True
+abs9g N=11 L=8: shapes 7, skeletons 125, feasible 3, complete assignments 498; CFGSPLIT True, +CFGSPLIT2 True, DFSSPLIT True, +DFSSPLIT2 True, all four True, five DFS levels True, all seven True
+abs9g N=17 L=9: shapes 187, skeletons 260907, feasible 0, complete assignments 0; CFGSPLIT True, +CFGSPLIT2 True, DFSSPLIT True, +DFSSPLIT2 True, all four True, five DFS levels True
+abs9g N=21 L=10: shapes 177, skeletons 62879, feasible 0, complete assignments 0; CFGSPLIT True, +CFGSPLIT2 True, DFSSPLIT True, +DFSSPLIT2 True, all four True, five DFS levels True
+ALL SPLIT CHECKS PASSED

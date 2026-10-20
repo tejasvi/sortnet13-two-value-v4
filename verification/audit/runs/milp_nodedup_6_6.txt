@@ -1,0 +1,28 @@
+N=6 L=6 H=3 ordered trees=6 unordered=2
+CFG k0(k0(k0(k0L,k0L),k0(k0L,k0L)),k0(k0L,k0L)) feasible
+CFG k0(k0(k0(k0L,k0L),k0(k0L,k0L)),k0(k0L,k1L)) feasible
+CFG k0(k0(k0(k0L,k0L),k0(k0L,k0L)),k0(k0L,k1L)) feasible
+CFG k0(k0(k0(k0L,k0L),k0(k0L,k0L)),k0(k1L,k1L)) feasible
+CFG k0(k0(k0(k0L,k0L),k0(k0L,k0L)),k1(k0L,k0L)) feasible
+CFG k0(k0(k0(k0L,k0L),k0L),k0(k0(k0L,k0L),k0L)) feasible
+CFG k0(k0(k0(k0L,k0L),k0L),k0(k0(k0L,k0L),k1L)) feasible
+CFG k0(k0(k0(k0L,k0L),k0L),k0(k0(k0L,k0L),k1L)) feasible
+CFG k0(k0(k0(k0L,k0L),k1L),k0(k0(k0L,k0L),k1L)) feasible
+CFG k0(k0(k0(k0L,k0L),k0L),k0(k0(k0L,k0L),k0L)) feasible
+CFG k0(k0(k0(k0L,k0L),k0L),k0(k0(k0L,k0L),k1L)) feasible
+CFG k0(k0(k0(k0L,k0L),k0L),k0(k0(k0L,k0L),k1L)) feasible
+CFG k0(k0(k0(k0L,k0L),k1L),k0(k0(k0L,k0L),k1L)) feasible
+CFG k0(k0(k0(k0L,k0L),k0L),k0(k0(k0L,k0L),k0L)) feasible
+CFG k0(k0(k0(k0L,k0L),k0L),k0(k0(k0L,k0L),k1L)) feasible
+CFG k0(k0(k0(k0L,k0L),k0L),k0(k0(k0L,k0L),k1L)) feasible
+CFG k0(k0(k0(k0L,k0L),k1L),k0(k0(k0L,k0L),k1L)) feasible
+CFG k0(k0(k0(k0L,k0L),k0L),k0(k0(k0L,k0L),k0L)) feasible
+CFG k0(k0(k0(k0L,k0L),k0L),k0(k0(k0L,k0L),k1L)) feasible
+CFG k0(k0(k0(k0L,k0L),k0L),k0(k0(k0L,k0L),k1L)) feasible
+CFG k0(k0(k0(k0L,k0L),k1L),k0(k0(k0L,k0L),k1L)) feasible
+CFG k0(k0(k0(k0L,k0L),k0(k0L,k0L)),k0(k0L,k0L)) feasible
+CFG k0(k0(k0(k0L,k0L),k0(k0L,k0L)),k0(k0L,k1L)) feasible
+CFG k0(k0(k0(k0L,k0L),k0(k0L,k0L)),k0(k0L,k1L)) feasible
+CFG k0(k0(k0(k0L,k0L),k0(k0L,k0L)),k0(k1L,k1L)) feasible
+CFG k0(k0(k0(k0L,k0L),k0(k0L,k0L)),k1(k0L,k0L)) feasible
+TOTAL N=6 L=6 configs=26 feasible_configs=26 other=0 time=0.2s

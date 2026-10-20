@@ -1,0 +1,231 @@
+N=5 L=6 H=4 shapes=3
+  feasible: shape=((((LL)L)L)L) maxcost=6 (sim ok)
+  feasible: shape=((((LL)L)L)L) maxcost=6 (sim ok)
+SYMBREAK 1
+ORB ((((LL)L)L)L) cfg=1 size=1 : 0,2 0,2 0,2 0,2
+ORB ((((LL)L)L)L) cfg=2 size=1 : 0,1 0,2 0,2 1,0 -1,0
+ORB ((((LL)L)L)L) cfg=2 size=1 : 0,1 0,2 1,0 0,2 -1,0
+ORB ((((LL)L)L)L) cfg=2 size=1 : 0,1 1,0 0,2 0,2 -1,0
+ORB ((((LL)L)L)L) cfg=3 size=1 : 0,0 1,0 2,1 2,1 -1,0 -1,0
+ORB ((((LL)L)L)L) cfg=3 size=1 : 0,0 2,1 1,0 2,1 -1,0 -1,0
+ORB ((((LL)L)L)L) cfg=3 size=1 : 0,0 2,1 2,1 1,0 -1,0 -1,0
+ORB ((((LL)L)L)L) cfg=4 size=1 : 0,1 0,2 1,0 0,2 -1,0
+ORB ((((LL)L)L)L) cfg=4 size=1 : 0,1 1,0 0,2 0,2 -1,0
+ORB ((((LL)L)L)L) cfg=5 size=1 : 0,1 0,1 1,0 2,0 -1,0 -1,0
+ORB ((((LL)L)L)L) cfg=5 size=1 : 0,1 0,1 2,0 1,0 -1,0 -1,0
+ORB ((((LL)L)L)L) cfg=6 size=1 : 0,0 3,0 1,0 2,0 -1,0 -1,0 -1,0
+ORB ((((LL)L)L)L) cfg=6 size=1 : 0,0 3,0 2,0 1,0 -1,0 -1,0 -1,0
+ORB ((((LL)L)L)L) cfg=9 size=1 : 0,1 1,0 0,2 0,2 -1,0
+ORB ((((LL)L)L)L) cfg=10 size=1 : 0,1 0,1 1,0 2,0 -1,0 -1,0
+ORB ((((LL)L)L)L) cfg=11 size=1 : 0,0 3,0 1,0 2,0 -1,0 -1,0 -1,0
+shape ((((LL)L)L)L) configs=17 feasible=16 nodes=153
+ORB (((LL)(LL))L) cfg=18 size=2 : 0,1 0,2 0,3 0,3
+ORB (((LL)(LL))L) cfg=18 size=1 : 0,1 0,3 0,3 0,2
+ORB (((LL)(LL))L) cfg=18 size=2 : 0,2 0,1 0,3 0,3
+ORB (((LL)(LL))L) cfg=18 size=1 : 0,2 0,2 0,2 0,2
+ORB (((LL)(LL))L) cfg=18 size=1 : 0,2 0,3 0,3 0,1
+ORB (((LL)(LL))L) cfg=21 size=1 : 0,1 0,2 0,2 1,0 -1,0
+ORB (((LL)(LL))L) cfg=23 size=1 : 0,1 0,1 1,1 1,1 -1,0
+ORB (((LL)(LL))L) cfg=23 size=2 : 0,1 0,2 0,2 1,0 -1,0
+ORB (((LL)(LL))L) cfg=23 size=2 : 0,1 0,2 0,3 1,0 0,3
+ORB (((LL)(LL))L) cfg=23 size=2 : 0,2 0,1 0,2 1,0 -1,0
+ORB (((LL)(LL))L) cfg=23 size=2 : 0,2 0,1 0,3 1,0 0,3
+ORB (((LL)(LL))L) cfg=23 size=1 : 0,2 0,1 1,1 1,1 0,2
+ORB (((LL)(LL))L) cfg=23 size=2 : 0,2 0,2 0,1 1,0 -1,0
+ORB (((LL)(LL))L) cfg=23 size=2 : 0,2 0,2 0,2 1,0 0,2
+ORB (((LL)(LL))L) cfg=23 size=1 : 1,0 0,1 0,2 0,2 -1,0
+ORB (((LL)(LL))L) cfg=23 size=2 : 1,0 0,1 0,2 0,3 0,3
+ORB (((LL)(LL))L) cfg=23 size=1 : 1,0 0,1 0,3 0,3 0,2
+ORB (((LL)(LL))L) cfg=23 size=1 : 1,1 0,0 1,2 1,2 -1,0
+ORB (((LL)(LL))L) cfg=26 size=1 : 0,1 0,1 1,0 2,0 -1,0 -1,0
+ORB (((LL)(LL))L) cfg=26 size=1 : 0,1 0,1 1,0 2,1 2,1 -1,0
+ORB (((LL)(LL))L) cfg=28 size=1 : 0,0 1,0 2,1 2,1 -1,0 -1,0
+ORB (((LL)(LL))L) cfg=28 size=2 : 0,0 1,0 2,1 2,2 2,2 -1,0
+ORB (((LL)(LL))L) cfg=28 size=1 : 0,0 1,0 2,2 2,2 2,1 -1,0
+ORB (((LL)(LL))L) cfg=28 size=1 : 0,0 2,0 1,1 1,1 -1,0 -1,0
+ORB (((LL)(LL))L) cfg=28 size=2 : 0,0 2,1 1,0 2,1 -1,0 -1,0
+ORB (((LL)(LL))L) cfg=28 size=2 : 0,0 2,1 1,0 2,2 2,2 -1,0
+ORB (((LL)(LL))L) cfg=28 size=1 : 0,0 2,1 1,1 1,1 2,1 -1,0
+ORB (((LL)(LL))L) cfg=28 size=2 : 0,1 0,1 1,0 2,0 -1,0 -1,0
+ORB (((LL)(LL))L) cfg=28 size=2 : 0,1 0,1 1,0 2,1 2,1 -1,0
+ORB (((LL)(LL))L) cfg=28 size=2 : 0,1 0,2 0,2 1,0 2,0 -1,0
+ORB (((LL)(LL))L) cfg=28 size=2 : 0,1 0,2 0,3 1,0 2,0 0,3
+ORB (((LL)(LL))L) cfg=28 size=2 : 0,1 0,2 1,0 2,0 -1,0 0,2
+ORB (((LL)(LL))L) cfg=28 size=2 : 0,1 0,2 1,0 2,0 0,2 -1,0
+ORB (((LL)(LL))L) cfg=28 size=2 : 0,1 0,2 1,0 2,0 0,3 0,3
+ORB (((LL)(LL))L) cfg=28 size=2 : 0,1 0,2 1,0 2,1 2,1 0,2
+ORB (((LL)(LL))L) cfg=28 size=2 : 0,1 2,0 0,1 1,0 -1,0 -1,0
+ORB (((LL)(LL))L) cfg=28 size=2 : 0,1 2,0 0,2 1,0 -1,0 0,2
+ORB (((LL)(LL))L) cfg=28 size=2 : 0,1 2,0 0,2 1,0 0,2 -1,0
+ORB (((LL)(LL))L) cfg=28 size=2 : 0,1 2,0 0,2 1,0 0,3 0,3
+ORB (((LL)(LL))L) cfg=28 size=2 : 0,1 2,0 0,3 1,0 0,2 0,3
+ORB (((LL)(LL))L) cfg=28 size=2 : 0,1 2,0 0,3 1,0 0,3 0,2
+ORB (((LL)(LL))L) cfg=31 size=1 : 0,0 2,0 1,0 3,0 -1,0 -1,0 -1,0
+ORB (((LL)(LL))L) cfg=31 size=1 : 0,0 2,0 1,0 3,1 3,1 -1,0 -1,0
+ORB (((LL)(LL))L) cfg=33 size=2 : 0,0 2,0 1,0 3,0 -1,0 -1,0 -1,0
+ORB (((LL)(LL))L) cfg=33 size=2 : 0,0 2,0 1,0 3,1 -1,0 3,1 -1,0
+ORB (((LL)(LL))L) cfg=33 size=2 : 0,0 2,0 1,0 3,1 3,1 -1,0 -1,0
+ORB (((LL)(LL))L) cfg=33 size=2 : 0,0 2,0 1,0 3,1 3,2 3,2 -1,0
+ORB (((LL)(LL))L) cfg=33 size=2 : 0,0 2,0 1,0 3,2 3,1 3,2 -1,0
+ORB (((LL)(LL))L) cfg=33 size=2 : 0,0 2,0 1,0 3,2 3,2 3,1 -1,0
+ORB (((LL)(LL))L) cfg=33 size=2 : 0,0 3,0 1,0 2,0 -1,0 -1,0 -1,0
+ORB (((LL)(LL))L) cfg=33 size=2 : 0,0 3,0 1,0 2,1 2,1 -1,0 -1,0
+ORB (((LL)(LL))L) cfg=33 size=2 : 0,0 3,1 1,0 2,0 -1,0 3,1 -1,0
+ORB (((LL)(LL))L) cfg=33 size=2 : 0,0 3,1 1,0 2,0 3,1 -1,0 -1,0
+ORB (((LL)(LL))L) cfg=33 size=2 : 0,0 3,1 1,0 2,0 3,2 3,2 -1,0
+ORB (((LL)(LL))L) cfg=33 size=2 : 0,0 3,1 1,0 2,1 2,1 3,1 -1,0
+ORB (((LL)(LL))L) cfg=33 size=2 : 0,0 3,1 1,0 3,1 2,0 -1,0 -1,0
+ORB (((LL)(LL))L) cfg=33 size=2 : 0,0 3,1 1,0 3,2 2,0 3,2 -1,0
+ORB (((LL)(LL))L) cfg=34 size=1 : 0,1 0,2 0,2 1,0 -1,0
+ORB (((LL)(LL))L) cfg=35 size=1 : 0,1 0,1 2,0 1,0 -1,0 -1,0
+ORB (((LL)(LL))L) cfg=36 size=1 : 0,0 3,0 2,0 1,0 -1,0 -1,0 -1,0
+shape (((LL)(LL))L) configs=37 feasible=60 nodes=7317
+ORB (((LL)L)(LL)) cfg=55 size=1 : 0,1 0,2 0,3 0,3
+ORB (((LL)L)(LL)) cfg=55 size=1 : 0,1 0,3 0,2 0,3
+ORB (((LL)L)(LL)) cfg=55 size=1 : 0,1 0,3 0,3 0,2
+ORB (((LL)L)(LL)) cfg=55 size=1 : 0,2 0,1 0,3 0,3
+ORB (((LL)L)(LL)) cfg=55 size=1 : 0,2 0,2 0,2 0,2
+ORB (((LL)L)(LL)) cfg=55 size=1 : 0,2 0,3 0,1 0,3
+ORB (((LL)L)(LL)) cfg=55 size=1 : 0,2 0,3 0,3 0,1
+ORB (((LL)L)(LL)) cfg=57 size=1 : 0,1 0,2 0,3 1,0 0,3
+ORB (((LL)L)(LL)) cfg=57 size=1 : 0,1 0,2 1,0 0,2 -1,0
+ORB (((LL)L)(LL)) cfg=57 size=1 : 0,1 0,2 1,0 0,3 0,3
+ORB (((LL)L)(LL)) cfg=57 size=1 : 0,1 0,2 1,1 1,1 0,2
+ORB (((LL)L)(LL)) cfg=57 size=1 : 0,1 0,3 0,2 1,0 0,3
+ORB (((LL)L)(LL)) cfg=57 size=1 : 0,1 0,3 0,3 1,0 0,2
+ORB (((LL)L)(LL)) cfg=57 size=1 : 0,1 0,3 1,0 0,2 0,3
+ORB (((LL)L)(LL)) cfg=57 size=1 : 0,1 0,3 1,0 0,3 0,2
+ORB (((LL)L)(LL)) cfg=57 size=1 : 0,1 1,0 0,2 0,2 -1,0
+ORB (((LL)L)(LL)) cfg=57 size=1 : 0,1 1,0 0,2 0,3 0,3
+ORB (((LL)L)(LL)) cfg=57 size=1 : 0,1 1,0 0,3 0,2 0,3
+ORB (((LL)L)(LL)) cfg=57 size=1 : 0,1 1,0 0,3 0,3 0,2
+ORB (((LL)L)(LL)) cfg=57 size=1 : 0,1 1,1 0,2 1,1 0,2
+ORB (((LL)L)(LL)) cfg=57 size=1 : 0,1 1,1 1,1 0,1 -1,0
+ORB (((LL)L)(LL)) cfg=57 size=1 : 0,1 1,1 1,1 0,2 0,2
+ORB (((LL)L)(LL)) cfg=58 size=1 : 0,1 0,2 0,2 1,0 -1,0
+ORB (((LL)L)(LL)) cfg=59 size=1 : 0,0 2,1 2,1 1,0 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=59 size=1 : 0,0 2,1 2,1 1,1 -1,0 1,1
+ORB (((LL)L)(LL)) cfg=60 size=1 : 0,1 0,2 0,2 1,0 -1,0
+ORB (((LL)L)(LL)) cfg=61 size=1 : 0,0 2,1 2,1 1,0 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=62 size=1 : 0,1 0,2 1,0 0,2 -1,0
+ORB (((LL)L)(LL)) cfg=62 size=1 : 0,1 0,2 1,0 0,3 0,3
+ORB (((LL)L)(LL)) cfg=62 size=1 : 0,1 0,3 1,0 0,2 0,3
+ORB (((LL)L)(LL)) cfg=62 size=1 : 0,1 0,3 1,0 0,3 0,2
+ORB (((LL)L)(LL)) cfg=62 size=1 : 0,1 1,0 0,2 0,2 -1,0
+ORB (((LL)L)(LL)) cfg=62 size=1 : 0,1 1,0 0,2 0,3 0,3
+ORB (((LL)L)(LL)) cfg=62 size=1 : 0,1 1,0 0,3 0,2 0,3
+ORB (((LL)L)(LL)) cfg=62 size=1 : 0,1 1,0 0,3 0,3 0,2
+ORB (((LL)L)(LL)) cfg=65 size=2 : 0,1 0,1 1,0 2,0 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=65 size=2 : 0,1 0,2 0,2 1,0 2,0 -1,0
+ORB (((LL)L)(LL)) cfg=65 size=2 : 0,1 0,2 0,3 1,0 2,0 0,3
+ORB (((LL)L)(LL)) cfg=65 size=2 : 0,1 0,2 1,0 0,2 2,0 -1,0
+ORB (((LL)L)(LL)) cfg=65 size=2 : 0,1 0,2 1,0 0,3 2,0 0,3
+ORB (((LL)L)(LL)) cfg=65 size=2 : 0,1 0,2 1,0 2,0 -1,0 0,2
+ORB (((LL)L)(LL)) cfg=65 size=2 : 0,1 0,2 1,0 2,0 0,2 -1,0
+ORB (((LL)L)(LL)) cfg=65 size=2 : 0,1 0,2 1,0 2,0 0,3 0,3
+ORB (((LL)L)(LL)) cfg=68 size=2 : 0,0 1,0 2,0 3,0 -1,0 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=68 size=2 : 0,0 1,0 2,0 3,1 -1,0 3,1 -1,0
+ORB (((LL)L)(LL)) cfg=68 size=2 : 0,0 1,0 2,0 3,1 3,1 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=68 size=2 : 0,0 1,0 2,0 3,1 3,2 3,2 -1,0
+ORB (((LL)L)(LL)) cfg=72 size=1 : 0,1 0,1 1,1 1,1 -1,0
+ORB (((LL)L)(LL)) cfg=72 size=1 : 0,1 0,2 0,2 1,0 -1,0
+ORB (((LL)L)(LL)) cfg=72 size=1 : 0,1 0,2 0,3 1,0 0,3
+ORB (((LL)L)(LL)) cfg=72 size=1 : 0,1 0,2 1,0 0,2 -1,0
+ORB (((LL)L)(LL)) cfg=72 size=1 : 0,1 0,2 1,0 0,3 0,3
+ORB (((LL)L)(LL)) cfg=72 size=1 : 0,2 0,1 0,2 1,0 -1,0
+ORB (((LL)L)(LL)) cfg=72 size=1 : 0,2 0,1 0,3 1,0 0,3
+ORB (((LL)L)(LL)) cfg=72 size=1 : 0,2 0,1 1,0 0,2 -1,0
+ORB (((LL)L)(LL)) cfg=72 size=1 : 0,2 0,1 1,0 0,3 0,3
+ORB (((LL)L)(LL)) cfg=72 size=1 : 0,2 0,2 0,1 1,0 -1,0
+ORB (((LL)L)(LL)) cfg=72 size=1 : 0,2 0,2 0,2 1,0 0,2
+ORB (((LL)L)(LL)) cfg=72 size=1 : 0,2 0,2 1,0 0,1 -1,0
+ORB (((LL)L)(LL)) cfg=72 size=1 : 0,2 0,2 1,0 0,2 0,2
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,0 2,0 1,1 1,1 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,0 2,1 2,1 1,0 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,0 2,1 2,2 1,0 2,2 -1,0
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 0,1 2,0 1,0 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 0,1 2,1 1,0 2,1 -1,0
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 0,2 0,2 1,0 2,0 -1,0
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 0,2 0,2 2,0 -1,0 1,0
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 0,2 0,3 1,0 2,0 0,3
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 0,2 0,3 2,0 0,3 1,0
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 0,2 1,0 0,2 2,0 -1,0
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 0,2 1,0 0,3 2,0 0,3
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 0,2 1,0 2,0 -1,0 0,2
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 0,2 1,0 2,0 0,3 0,3
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 0,2 1,0 2,1 2,1 0,2
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 0,2 2,0 0,2 -1,0 1,0
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 0,2 2,0 0,3 0,3 1,0
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 0,2 2,0 1,0 -1,0 0,2
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 0,2 2,0 1,0 0,2 -1,0
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 0,2 2,0 1,0 0,3 0,3
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 0,2 2,1 1,0 2,1 0,2
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 2,0 0,1 1,0 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 2,0 0,2 1,0 -1,0 0,2
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 2,0 0,2 1,0 0,2 -1,0
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 2,0 0,2 1,0 0,3 0,3
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 2,0 0,3 1,0 0,2 0,3
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 2,0 0,3 1,0 0,3 0,2
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 2,0 1,0 0,1 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 2,0 1,0 0,2 -1,0 0,2
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 2,0 1,0 0,2 0,2 -1,0
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 2,0 1,0 0,2 0,3 0,3
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 2,0 1,0 0,3 0,2 0,3
+ORB (((LL)L)(LL)) cfg=74 size=1 : 0,1 2,0 1,0 0,3 0,3 0,2
+ORB (((LL)L)(LL)) cfg=76 size=1 : 0,0 2,0 1,0 3,0 -1,0 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=76 size=1 : 0,0 2,0 1,0 3,1 -1,0 3,1 -1,0
+ORB (((LL)L)(LL)) cfg=76 size=1 : 0,0 2,0 1,0 3,1 3,1 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=76 size=1 : 0,0 2,0 1,0 3,1 3,2 3,2 -1,0
+ORB (((LL)L)(LL)) cfg=76 size=1 : 0,0 2,0 1,0 3,2 3,1 3,2 -1,0
+ORB (((LL)L)(LL)) cfg=76 size=1 : 0,0 2,0 1,0 3,2 3,2 3,1 -1,0
+ORB (((LL)L)(LL)) cfg=76 size=1 : 0,0 3,0 1,0 2,0 -1,0 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=76 size=1 : 0,0 3,0 1,0 2,1 2,1 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=76 size=1 : 0,0 3,1 1,0 2,0 -1,0 3,1 -1,0
+ORB (((LL)L)(LL)) cfg=76 size=1 : 0,0 3,1 1,0 2,0 3,1 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=76 size=1 : 0,0 3,1 1,0 2,0 3,2 3,2 -1,0
+ORB (((LL)L)(LL)) cfg=76 size=1 : 0,0 3,1 1,0 2,1 2,1 3,1 -1,0
+ORB (((LL)L)(LL)) cfg=76 size=1 : 0,0 3,1 1,0 3,1 2,0 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=76 size=1 : 0,0 3,1 1,0 3,2 2,0 3,2 -1,0
+ORB (((LL)L)(LL)) cfg=76 size=1 : 0,0 3,1 2,0 3,1 -1,0 1,0 -1,0
+ORB (((LL)L)(LL)) cfg=76 size=1 : 0,0 3,1 2,0 3,2 3,2 1,0 -1,0
+ORB (((LL)L)(LL)) cfg=77 size=1 : 0,1 0,1 1,0 2,0 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=77 size=1 : 0,1 0,1 1,0 2,1 2,1 -1,0
+ORB (((LL)L)(LL)) cfg=78 size=1 : 0,0 3,0 1,0 2,0 -1,0 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=78 size=1 : 0,0 3,0 1,0 2,1 -1,0 -1,0 2,1
+ORB (((LL)L)(LL)) cfg=78 size=1 : 0,0 3,0 1,0 2,1 2,1 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=78 size=1 : 0,0 3,0 1,0 2,1 2,2 -1,0 2,2
+ORB (((LL)L)(LL)) cfg=78 size=1 : 0,0 3,0 1,0 2,2 2,1 -1,0 2,2
+ORB (((LL)L)(LL)) cfg=78 size=1 : 0,0 3,0 1,0 2,2 2,2 -1,0 2,1
+ORB (((LL)L)(LL)) cfg=79 size=1 : 0,1 0,1 1,0 2,0 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=79 size=1 : 0,1 0,1 1,0 2,1 2,1 -1,0
+ORB (((LL)L)(LL)) cfg=80 size=1 : 0,0 3,0 1,0 2,0 -1,0 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=80 size=1 : 0,0 3,0 1,0 2,1 2,1 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=81 size=1 : 0,1 0,1 2,0 1,0 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=81 size=1 : 0,1 0,2 1,0 0,2 2,0 -1,0
+ORB (((LL)L)(LL)) cfg=81 size=1 : 0,1 0,2 1,0 0,3 2,0 0,3
+ORB (((LL)L)(LL)) cfg=81 size=1 : 0,1 0,2 2,0 0,2 -1,0 1,0
+ORB (((LL)L)(LL)) cfg=81 size=1 : 0,1 0,2 2,0 0,3 0,3 1,0
+ORB (((LL)L)(LL)) cfg=81 size=1 : 0,1 0,2 2,0 1,0 -1,0 0,2
+ORB (((LL)L)(LL)) cfg=81 size=1 : 0,1 0,2 2,0 1,0 0,2 -1,0
+ORB (((LL)L)(LL)) cfg=81 size=1 : 0,1 0,2 2,0 1,0 0,3 0,3
+ORB (((LL)L)(LL)) cfg=83 size=1 : 0,0 3,0 1,0 2,0 -1,0 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=83 size=1 : 0,0 3,1 1,0 2,0 -1,0 3,1 -1,0
+ORB (((LL)L)(LL)) cfg=83 size=1 : 0,0 3,1 1,0 2,0 3,1 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=83 size=1 : 0,0 3,1 1,0 2,0 3,2 3,2 -1,0
+ORB (((LL)L)(LL)) cfg=87 size=2 : 0,1 0,2 0,2 1,0 2,0 3,0 -1,0
+ORB (((LL)L)(LL)) cfg=87 size=2 : 0,1 0,2 0,2 2,0 -1,0 3,0 1,0
+ORB (((LL)L)(LL)) cfg=87 size=2 : 0,1 0,2 0,2 2,0 3,0 1,0 -1,0
+ORB (((LL)L)(LL)) cfg=94 size=1 : 0,1 0,1 1,0 2,0 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=94 size=1 : 0,1 0,1 1,0 2,1 2,1 -1,0
+ORB (((LL)L)(LL)) cfg=94 size=1 : 0,1 0,1 2,0 1,0 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=94 size=1 : 0,1 0,1 2,1 1,0 2,1 -1,0
+ORB (((LL)L)(LL)) cfg=95 size=1 : 0,0 3,0 1,0 2,0 -1,0 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=95 size=1 : 0,0 3,0 1,0 2,1 2,1 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=95 size=1 : 0,0 3,0 2,0 1,0 -1,0 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=95 size=1 : 0,0 3,0 2,1 1,0 2,1 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=102 size=1 : 0,1 0,2 0,2 1,0 -1,0
+ORB (((LL)L)(LL)) cfg=103 size=1 : 0,0 2,1 2,1 1,0 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=106 size=1 : 0,1 0,1 2,0 1,0 -1,0 -1,0
+ORB (((LL)L)(LL)) cfg=107 size=1 : 0,0 3,0 2,0 1,0 -1,0 -1,0 -1,0
+shape (((LL)L)(LL)) configs=71 feasible=147 nodes=22367
+TOTAL configs=125 leaves=13237 feasible=223 simfail=0

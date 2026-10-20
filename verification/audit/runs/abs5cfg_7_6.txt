@@ -1,0 +1,2 @@
+CFG k0(k0(k0(k0L,k0L),k0(k0L,k0L)),k0(k0(k0L,k0L),k0L)) infeasible
+CFG k0(k0(k0(k0L,k0L),k0(k0L,k0L)),k0(k0(k0L,k0L),k1L)) infeasible

@@ -1,0 +1,5 @@
+'S13K.main_theorem' depends on axioms: [propext, Classical.choice, Quot.sound]
+'S13K.main_theorem_01' depends on axioms: [propext, Classical.choice, Quot.sound]
+'S13K.p2_13' depends on axioms: [propext, Classical.choice, Quot.sound]
+'S13K.not_feasible' depends on axioms: [propext, Classical.choice, Quot.sound]
+axioms_exit=0

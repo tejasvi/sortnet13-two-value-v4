@@ -1,0 +1,1 @@
+N [5] seeds range(1, 41) {'n': 120, 'unary': 119, 'graft': 101, 'knock': 52} ALL CHECKS PASSED

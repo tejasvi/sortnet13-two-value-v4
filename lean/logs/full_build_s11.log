@@ -1,0 +1,216 @@
+⚠ [1023/1049] Replayed S13.S11.Codes
+warning: S13/S11/Codes.lean:33:64: Unused tactic linter: `rfl` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: S13/S11/Codes.lean:33:64: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: S13/S11/Codes.lean:36:27: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: S13/S11/Codes.lean:145:19: `if_true` has been deprecated: Use `ite_true` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵t̵r̵u̵e̵i̲t̲e̲_̲t̲r̲u̲e̲
+warning: S13/S11/Codes.lean:139:49: This simp argument is unused:
+  Nat.testBit_two_pow
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [Nat.testBit_or, Nat.one_shiftLeft, h0, hkn]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [1024/1049] Replayed S13.S11.Sound
+warning: S13/S11/Sound.lean:103:8: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: S13/S11/Sound.lean:109:8: `if_neg` has been deprecated: Use `ite_eq_right` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵n̵e̵g̵i̲t̲e̲_̲e̲q̲_̲r̲i̲g̲h̲t̲
+warning: S13/S11/Sound.lean:111:10: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: S13/S11/Sound.lean:112:10: `if_neg` has been deprecated: Use `ite_eq_right` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵n̵e̵g̵i̲t̲e̲_̲e̲q̲_̲r̲i̲g̲h̲t̲
+warning: S13/S11/Sound.lean:114:12: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: S13/S11/Sound.lean:144:12: `if_neg` has been deprecated: Use `ite_eq_right` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵n̵e̵g̵i̲t̲e̲_̲e̲q̲_̲r̲i̲g̲h̲t̲
+warning: S13/S11/Sound.lean:331:45: `if_true` has been deprecated: Use `ite_true` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵t̵r̵u̵e̵i̲t̲e̲_̲t̲r̲u̲e̲
+⚠ [1025/1049] Replayed S13.S11.Final
+warning: S13/S11/Final.lean:72:6: Unused tactic linter: `rfl` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: S13/S11/Final.lean:72:6: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: S13/S11/Final.lean:133:32: `if_true` has been deprecated: Use `ite_true` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵t̵r̵u̵e̵i̲t̲e̲_̲t̲r̲u̲e̲
+ℹ [1058/1167] Replayed S13.Axioms
+info: S13/Axioms.lean:10:0: 'Sortnet.main_theorem' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound,
+ fullCheck_13_8._native.native_decide.ax_1_1]
+info: S13/Axioms.lean:11:0: 'Sortnet.main_theorem_01' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound,
+ fullCheck_13_8._native.native_decide.ax_1_1]
+info: S13/Axioms.lean:12:0: 'Sortnet.P2_13' depends on axioms: [propext, Classical.choice, Quot.sound, fullCheck_13_8._native.native_decide.ax_1_1]
+info: S13/Axioms.lean:13:0: 'Sortnet.mainStatement_of_P2' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: S13/Axioms.lean:14:0: 'Sortnet.prune' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: S13/Axioms.lean:15:0: 'Sortnet.exists_sorts_of_sortsBy' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: S13/Axioms.lean:16:0: 'Sortnet.Network.sorts_iff_sorts01' depends on axioms: [propext, Quot.sound]
+info: S13/Axioms.lean:17:0: 'Sortnet.checkAll_sound' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: S13/Axioms.lean:18:0: 'Sortnet.p2AtLeast_of_not_feasible' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: S13/Axioms.lean:19:0: 'Sortnet.p2_values' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound,
+ fullCheck_13_8._native.native_decide.ax_1_1,
+ p2_lower_10._native.native_decide.ax_1_1,
+ p2_lower_11._native.native_decide.ax_1_1,
+ p2_lower_12._native.native_decide.ax_1_1,
+ p2_lower_3._native.native_decide.ax_1_1,
+ p2_lower_4._native.native_decide.ax_1_1,
+ p2_lower_5._native.native_decide.ax_1_1,
+ p2_lower_6._native.native_decide.ax_1_1,
+ p2_lower_7._native.native_decide.ax_1_1,
+ p2_lower_8._native.native_decide.ax_1_1,
+ p2_lower_9._native.native_decide.ax_1_1]
+info: S13/Axioms.lean:20:0: axiom Sortnet.fullCheck_13_8._native.native_decide.ax_1_1 : decide (Comp.fullCheck 13 8 = true) = true
+✔ [1059/1167] Built S11Data.Chunk07 (49s)
+✔ [1060/1167] Built S11Data.Chunk14 (53s)
+✔ [1061/1167] Built S11Data.Chunk10 (56s)
+✔ [1062/1167] Built S11Data.Chunk16 (58s)
+✔ [1063/1167] Built S11Data.Chunk07:c.o (9.5s)
+✔ [1064/1167] Built S11Data.Chunk07:dynlib (554ms)
+✔ [1065/1167] Built S11Data.Chunk27 (59s)
+✔ [1066/1167] Built S11Data.Chunk22 (60s)
+✔ [1067/1167] Built S11Data.Chunk25 (60s)
+✔ [1068/1167] Built S11Data.Chunk14:c.o (7.0s)
+✔ [1069/1167] Built S11Data.Chunk14:dynlib (172ms)
+✔ [1070/1167] Built S11Data.Chunk01 (61s)
+✔ [1071/1167] Built S11Data.Chunk31 (61s)
+✔ [1072/1167] Built S11Data.Chunk13 (61s)
+✔ [1073/1167] Built S11Data.Chunk19 (61s)
+✔ [1074/1167] Built S11Data.Chunk20 (61s)
+✔ [1075/1167] Built S11Data.Chunk29 (61s)
+✔ [1076/1167] Built S11Data.Chunk15 (61s)
+✔ [1077/1167] Built S11Data.Chunk18 (61s)
+✔ [1078/1167] Built S11Data.Chunk30 (61s)
+✔ [1079/1167] Built S11Data.Chunk24 (62s)
+✔ [1080/1167] Built S11Data.Chunk11 (62s)
+✔ [1081/1167] Built S11Data.Chunk21 (62s)
+✔ [1082/1167] Built S11Data.Chunk08 (62s)
+✔ [1083/1167] Built S11Data.Chunk02 (62s)
+✔ [1084/1167] Built S11Data.Chunk06 (62s)
+✔ [1085/1167] Built S11Data.Chunk00 (62s)
+✔ [1086/1167] Built S11Data.Chunk27:c.o (2.5s)
+✔ [1087/1167] Built S11Data.Chunk04 (62s)
+✔ [1088/1167] Built S11Data.Chunk12 (62s)
+✔ [1089/1167] Built S11Data.Chunk27:dynlib (282ms)
+✔ [1090/1167] Built S11Data.Chunk26 (62s)
+✔ [1091/1167] Built S11Data.Chunk05 (63s)
+✔ [1092/1167] Built S11Data.Chunk28 (63s)
+✔ [1093/1167] Built S11Data.Chunk32 (62s)
+✔ [1094/1167] Built S11Data.Chunk22:c.o (2.6s)
+✔ [1095/1167] Built S11Data.Chunk25:c.o (2.6s)
+✔ [1096/1167] Built S11Data.Chunk03 (63s)
+✔ [1097/1167] Built S11Data.Chunk22:dynlib (218ms)
+✔ [1098/1167] Built S11Data.Chunk23 (63s)
+✔ [1099/1167] Built S11Data.Chunk25:dynlib (184ms)
+✔ [1100/1167] Built S11Data.Chunk31:c.o (2.4s)
+✔ [1101/1167] Built S11Data.Chunk13:c.o (2.7s)
+✔ [1102/1167] Built S11Data.Chunk15:c.o (2.5s)
+✔ [1103/1167] Built S11Data.Chunk29:c.o (2.6s)
+✔ [1104/1167] Built S11Data.Chunk31:dynlib (355ms)
+✔ [1105/1167] Built S11Data.Chunk01:c.o (2.9s)
+✔ [1106/1167] Built S11Data.Chunk11:c.o (2.7s)
+✔ [1107/1167] Built S11Data.Chunk18:c.o (3.0s)
+✔ [1108/1167] Built S11Data.Chunk19:c.o (3.3s)
+✔ [1109/1167] Built S11Data.Chunk21:c.o (2.6s)
+✔ [1110/1167] Built S11Data.Chunk29:dynlib (632ms)
+✔ [1111/1167] Built S11Data.Chunk30:c.o (3.1s)
+✔ [1112/1167] Built S11Data.Chunk24:c.o (2.9s)
+✔ [1113/1167] Built S11Data.Chunk01:dynlib (722ms)
+✔ [1114/1167] Built S11Data.Chunk02:c.o (2.6s)
+✔ [1115/1167] Built S11Data.Chunk08:c.o (2.7s)
+✔ [1116/1167] Built S11Data.Chunk15:dynlib (961ms)
+✔ [1117/1167] Built S11Data.Chunk18:dynlib (394ms)
+✔ [1118/1167] Built S11Data.Chunk19:dynlib (401ms)
+✔ [1119/1167] Built S11Data.Chunk24:dynlib (324ms)
+✔ [1120/1167] Built S11Data.Chunk30:dynlib (392ms)
+✔ [1121/1167] Built S11Data.Chunk08:dynlib (301ms)
+✔ [1122/1167] Built S11Data.Chunk21:dynlib (596ms)
+✔ [1123/1167] Built S11Data.Chunk04:c.o (3.2s)
+✔ [1124/1167] Built S11Data.Chunk06:c.o (4.0s)
+✔ [1125/1167] Built S11Data.Chunk13:dynlib (2.2s)
+✔ [1126/1167] Built S11Data.Chunk20:c.o (4.9s)
+✔ [1127/1167] Built S11Data.Chunk00:c.o (4.4s)
+✔ [1128/1167] Built S11Data.Chunk26:c.o (4.1s)
+✔ [1129/1167] Built S11Data.Chunk09 (67s)
+✔ [1130/1167] Built S11Data.Chunk17 (67s)
+✔ [1131/1167] Built S11Data.Chunk02:dynlib (2.1s)
+✔ [1132/1167] Built S11Data.Chunk11:dynlib (2.6s)
+✔ [1133/1167] Built S11Data.Chunk28:c.o (4.2s)
+✔ [1134/1167] Built S11Data.Chunk32:c.o (4.2s)
+✔ [1135/1167] Built S11Data.Chunk04:dynlib (1.7s)
+✔ [1136/1167] Built S11Data.Chunk12:c.o (4.8s)
+✔ [1137/1167] Built S11Data.Chunk00:dynlib (1.3s)
+✔ [1138/1167] Built S11Data.Chunk03:c.o (4.9s)
+✔ [1139/1167] Built S11Data.Chunk05:c.o (5.2s)
+✔ [1140/1167] Built S11Data.Chunk20:dynlib (2.0s)
+✔ [1141/1167] Built S11Data.Chunk23:c.o (4.8s)
+✔ [1142/1167] Built S11Data.Chunk28:dynlib (904ms)
+✔ [1143/1167] Built S11Data.Chunk32:dynlib (967ms)
+✔ [1144/1167] Built S11Data.Chunk05:dynlib (210ms)
+✔ [1145/1167] Built S11Data.Chunk06:dynlib (2.1s)
+✔ [1146/1167] Built S11Data.Chunk12:dynlib (217ms)
+✔ [1147/1167] Built S11Data.Chunk26:dynlib (1.2s)
+✔ [1148/1167] Built S11Data.Chunk03:dynlib (225ms)
+✔ [1149/1167] Built S11Data.Chunk23:dynlib (214ms)
+✔ [1150/1167] Built S11Data.Chunk10:c.o (12s)
+✔ [1151/1167] Built S11Data.Chunk16:c.o (11s)
+✔ [1152/1167] Built S11Data.Chunk10:dynlib (182ms)
+✔ [1153/1167] Built S11Data.Chunk16:dynlib (152ms)
+✔ [1154/1167] Built S11Data.Chunk09:c.o (2.7s)
+✔ [1155/1167] Built S11Data.Chunk17:c.o (2.8s)
+✔ [1156/1167] Built S11Data.Chunk09:dynlib (158ms)
+✔ [1157/1167] Built S11Data.Chunk17:dynlib (148ms)
+✔ [1158/1167] Built S11Data.Cert (16s)
+✔ [1160/1167] Built S11Data.Cert:dynlib (91ms)
+✔ [1161/1167] Built S11Data (3.5s)
+✔ [1163/1167] Built S11Data:shared (3.8s)
+✔ [1164/1167] Built S13.S11.Main (73s)
+✔ [1165/1167] Built S13 (3.0s)
+ℹ [1167/1167] Built S13.S11.Axioms (4.1s)
+info: S13/S11/Axioms.lean:7:0: 'Sortnet.S13_ge_44' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound,
+ certOK_harder11._native.native_decide.ax_1_1,
+ fullCheck_13_8._native.native_decide.ax_1_1]
+info: S13/S11/Axioms.lean:8:0: 'Sortnet.S11_ge_35' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound,
+ certOK_harder11._native.native_decide.ax_1_1]
+info: S13/S11/Axioms.lean:9:0: 'Sortnet.S11.certOK_sound' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: S13/S11/Axioms.lean:10:0: 'Sortnet.S11.sorts_bound_of_LB' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: S13/S11/Axioms.lean:11:0: 'Sortnet.S11.Cert.claims_of_check' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: S13/S11/Axioms.lean:12:0: axiom Sortnet.certOK_harder11._native.native_decide.ax_1_1 : decide
+    (S11.certOK S11Data.theCert S11Data.certCount 2048 11 35 = true) =
+  true
+Build completed successfully (1167 jobs).
+full: wall=174.20 user=6851.05 maxrss=4738192KB
+EXIT 0

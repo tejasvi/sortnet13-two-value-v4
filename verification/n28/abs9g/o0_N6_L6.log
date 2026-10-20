@@ -1,0 +1,28 @@
+N=6 L=6 H=3 shapes=2
+  feasible: shape=(((LL)(LL))(LL)) maxcost=6 (sim ok)
+  feasible: shape=(((LL)(LL))(LL)) maxcost=6 (sim ok)
+SYMBREAK 0
+ORB (((LL)(LL))(LL)) cfg=1 size=2 : 0,2 0,2 0,2 0,3 0,3
+ORB (((LL)(LL))(LL)) cfg=1 size=2 : 0,2 0,2 0,2 0,3 0,3
+ORB (((LL)(LL))(LL)) cfg=1 size=1 : 0,2 0,2 0,3 0,3 0,2
+ORB (((LL)(LL))(LL)) cfg=2 size=2 : 0,1 0,2 0,3 1,0 0,3 -1,0
+ORB (((LL)(LL))(LL)) cfg=2 size=2 : 0,1 0,2 0,3 1,0 0,3 -1,0
+ORB (((LL)(LL))(LL)) cfg=2 size=1 : 0,1 0,2 1,1 1,1 0,2 -1,0
+ORB (((LL)(LL))(LL)) cfg=2 size=1 : 0,1 0,2 1,1 1,1 0,3 0,3
+ORB (((LL)(LL))(LL)) cfg=2 size=2 : 0,1 1,0 0,2 0,3 0,3 -1,0
+ORB (((LL)(LL))(LL)) cfg=2 size=2 : 0,1 1,0 0,2 0,3 0,3 -1,0
+ORB (((LL)(LL))(LL)) cfg=2 size=1 : 0,1 1,0 0,3 0,3 0,2 -1,0
+ORB (((LL)(LL))(LL)) cfg=2 size=1 : 0,1 1,0 0,3 0,3 0,3 0,3
+ORB (((LL)(LL))(LL)) cfg=3 size=2 : 0,1 0,2 0,3 1,0 0,3 -1,0
+ORB (((LL)(LL))(LL)) cfg=3 size=2 : 0,1 0,2 0,3 1,0 0,3 -1,0
+ORB (((LL)(LL))(LL)) cfg=4 size=2 : 0,1 0,2 0,2 1,0 2,0 -1,0 -1,0
+ORB (((LL)(LL))(LL)) cfg=4 size=2 : 0,1 0,2 0,2 1,0 2,0 -1,0 -1,0
+shape (((LL)(LL))(LL)) configs=4 feasible=15 nodes=141
+ORB (((LL)L)((LL)L)) cfg=5 size=1 : 0,1 0,3 0,3 0,3 0,3
+ORB (((LL)L)((LL)L)) cfg=6 size=1 : 0,1 0,2 0,3 0,3 1,0 -1,0
+ORB (((LL)L)((LL)L)) cfg=6 size=1 : 0,1 0,2 0,3 1,0 0,3 -1,0
+ORB (((LL)L)((LL)L)) cfg=6 size=1 : 0,1 0,2 1,0 0,3 0,3 -1,0
+ORB (((LL)L)((LL)L)) cfg=7 size=1 : 0,1 0,2 0,2 1,0 2,0 -1,0 -1,0
+ORB (((LL)L)((LL)L)) cfg=7 size=1 : 0,1 0,2 0,2 2,0 1,0 -1,0 -1,0
+shape (((LL)L)((LL)L)) configs=3 feasible=6 nodes=45
+TOTAL configs=7 leaves=51 feasible=21 simfail=0

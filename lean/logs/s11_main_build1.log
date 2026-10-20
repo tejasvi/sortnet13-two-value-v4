@@ -1,0 +1,69 @@
+✔ [109/138] Built S11Data.Cert:dynlib (130ms)
+⚠ [1112/1122] Replayed S13.S11.Codes
+warning: S13/S11/Codes.lean:33:64: Unused tactic linter: `rfl` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: S13/S11/Codes.lean:33:64: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: S13/S11/Codes.lean:36:27: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: S13/S11/Codes.lean:145:19: `if_true` has been deprecated: Use `ite_true` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵t̵r̵u̵e̵i̲t̲e̲_̲t̲r̲u̲e̲
+warning: S13/S11/Codes.lean:139:49: This simp argument is unused:
+  Nat.testBit_two_pow
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [Nat.testBit_or, Nat.one_shiftLeft, h0, hkn]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [1120/1143] Replayed S13.S11.Sound
+warning: S13/S11/Sound.lean:103:8: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: S13/S11/Sound.lean:109:8: `if_neg` has been deprecated: Use `ite_eq_right` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵n̵e̵g̵i̲t̲e̲_̲e̲q̲_̲r̲i̲g̲h̲t̲
+warning: S13/S11/Sound.lean:111:10: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: S13/S11/Sound.lean:112:10: `if_neg` has been deprecated: Use `ite_eq_right` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵n̵e̵g̵i̲t̲e̲_̲e̲q̲_̲r̲i̲g̲h̲t̲
+warning: S13/S11/Sound.lean:114:12: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: S13/S11/Sound.lean:144:12: `if_neg` has been deprecated: Use `ite_eq_right` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵n̵e̵g̵i̲t̲e̲_̲e̲q̲_̲r̲i̲g̲h̲t̲
+warning: S13/S11/Sound.lean:331:45: `if_true` has been deprecated: Use `ite_true` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵t̵r̵u̵e̵i̲t̲e̲_̲t̲r̲u̲e̲
+⚠ [1121/1143] Replayed S13.S11.Final
+warning: S13/S11/Final.lean:72:6: Unused tactic linter: `rfl` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: S13/S11/Final.lean:72:6: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: S13/S11/Final.lean:133:32: `if_true` has been deprecated: Use `ite_true` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵t̵r̵u̵e̵i̲t̲e̲_̲t̲r̲u̲e̲
+✔ [1140/1143] Built S11Data (19s)
+✔ [1141/1143] Built S11Data:c.o (109ms)
+✔ [1142/1143] Built S11Data:shared (30s)
+✔ [1143/1143] Built S13.S11.Main (55s)
+Build completed successfully (1143 jobs).
+S11Main: wall=107.93 user=6520.80 maxrss=4534964KB
+EXIT 0

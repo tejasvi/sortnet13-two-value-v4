@@ -1,0 +1,320 @@
+==> f_41610_0.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=0/64 configs=1818486 feasible=0 nodes=3645750
+TOTAL configs=1818486 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_1.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=1/64 configs=1030705 feasible=0 nodes=2066196
+TOTAL configs=1030705 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_2.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=2/64 configs=669630 feasible=0 nodes=1342396
+TOTAL configs=669630 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_3.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=3/64 configs=1818504 feasible=0 nodes=3646166
+TOTAL configs=1818504 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_4.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=4/64 configs=1030705 feasible=0 nodes=2066196
+TOTAL configs=1030705 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_5.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=5/64 configs=669630 feasible=0 nodes=1342396
+TOTAL configs=669630 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_6.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=6/64 configs=1267044 feasible=0 nodes=2540167
+TOTAL configs=1267044 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_7.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=7/64 configs=1345825 feasible=0 nodes=2698115
+TOTAL configs=1345825 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_8.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=8/64 configs=814060 feasible=0 nodes=1631916
+TOTAL configs=814060 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_9.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=9/64 configs=807494 feasible=0 nodes=1618796
+TOTAL configs=807494 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_10.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=10/64 configs=1109485 feasible=0 nodes=2224642
+TOTAL configs=1109485 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_11.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=11/64 configs=722150 feasible=0 nodes=1447676
+TOTAL configs=722150 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_12.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=12/64 configs=807495 feasible=0 nodes=1618823
+TOTAL configs=807495 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_13.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=13/64 configs=833755 feasible=0 nodes=1671472
+TOTAL configs=833755 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_14.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=14/64 configs=603980 feasible=0 nodes=1210796
+TOTAL configs=603980 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_15.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=15/64 configs=761540 feasible=0 nodes=1526710
+TOTAL configs=761540 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_16.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=16/64 configs=558025 feasible=0 nodes=1118676
+TOTAL configs=558025 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_17.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=17/64 configs=1864460 feasible=0 nodes=3738044
+TOTAL configs=1864460 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_18.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=18/64 configs=1306435 feasible=0 nodes=2618983
+TOTAL configs=1306435 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_19.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=19/64 configs=787800 feasible=0 nodes=1579276
+TOTAL configs=787800 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_20.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=20/64 configs=1864460 feasible=0 nodes=3738357
+TOTAL configs=1864460 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_21.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=21/64 configs=1306435 feasible=0 nodes=2618990
+TOTAL configs=1306435 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_22.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=22/64 configs=787800 feasible=0 nodes=1579276
+TOTAL configs=787800 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_23.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=23/64 configs=1313000 feasible=0 nodes=2632303
+TOTAL configs=1313000 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_24.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=24/64 configs=1070095 feasible=0 nodes=2145232
+TOTAL configs=1070095 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_25.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=25/64 configs=695890 feasible=0 nodes=1395036
+TOTAL configs=695890 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_26.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=26/64 configs=761540 feasible=0 nodes=1526703
+TOTAL configs=761540 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_27.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=27/64 configs=1109484 feasible=0 nodes=2224305
+TOTAL configs=1109484 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_28.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=28/64 configs=722150 feasible=0 nodes=1447676
+TOTAL configs=722150 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_29.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=29/64 configs=807495 feasible=0 nodes=1618830
+TOTAL configs=807495 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_30.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=30/64 configs=1109485 feasible=0 nodes=2224581
+TOTAL configs=1109485 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_31.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=31/64 configs=722150 feasible=0 nodes=1447676
+TOTAL configs=722150 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_32.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=32/64 configs=807495 feasible=0 nodes=1618832
+TOTAL configs=807495 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_33.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=33/64 configs=833755 feasible=0 nodes=1671470
+TOTAL configs=833755 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_34.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=34/64 configs=328250 feasible=0 nodes=658000
+TOTAL configs=328250 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_35.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=35/64 configs=643370 feasible=0 nodes=1289830
+TOTAL configs=643370 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_36.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=36/64 configs=512070 feasible=0 nodes=1026549
+TOTAL configs=512070 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_37.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=37/64 configs=210080 feasible=0 nodes=421120
+TOTAL configs=210080 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_38.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=38/64 configs=597415 feasible=0 nodes=1197712
+TOTAL configs=597415 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_39.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=39/64 configs=512070 feasible=0 nodes=1026554
+TOTAL configs=512070 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_40.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=40/64 configs=210080 feasible=0 nodes=421120
+TOTAL configs=210080 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_41.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=41/64 configs=597415 feasible=0 nodes=1197712
+TOTAL configs=597415 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_42.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=42/64 configs=512070 feasible=0 nodes=1026556
+TOTAL configs=512070 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_43.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=43/64 configs=210080 feasible=0 nodes=421120
+TOTAL configs=210080 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_44.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=44/64 configs=873145 feasible=0 nodes=1750583
+TOTAL configs=873145 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_45.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=45/64 configs=630240 feasible=0 nodes=1263434
+TOTAL configs=630240 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_46.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=46/64 configs=256035 feasible=0 nodes=513240
+TOTAL configs=256035 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_47.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=47/64 configs=873145 feasible=0 nodes=1750862
+TOTAL configs=873145 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_48.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=48/64 configs=630240 feasible=0 nodes=1263436
+TOTAL configs=630240 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_49.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=49/64 configs=256035 feasible=0 nodes=513240
+TOTAL configs=256035 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_50.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=50/64 configs=597415 feasible=0 nodes=1197712
+TOTAL configs=597415 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_51.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=51/64 configs=512070 feasible=0 nodes=1026556
+TOTAL configs=512070 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_52.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=52/64 configs=210080 feasible=0 nodes=421120
+TOTAL configs=210080 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_53.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=53/64 configs=321685 feasible=0 nodes=644914
+TOTAL configs=321685 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_54.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=54/64 configs=945360 feasible=0 nodes=1895343
+TOTAL configs=945360 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_55.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=55/64 configs=400465 feasible=0 nodes=802760
+TOTAL configs=400465 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_56.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=56/64 configs=413595 feasible=0 nodes=829156
+TOTAL configs=413595 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_57.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=57/64 configs=945360 feasible=0 nodes=1895615
+TOTAL configs=945360 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_58.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=58/64 configs=400465 feasible=0 nodes=802760
+TOTAL configs=400465 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_59.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=59/64 configs=413595 feasible=0 nodes=829156
+TOTAL configs=413595 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_60.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=60/64 configs=669630 feasible=0 nodes=1342472
+TOTAL configs=669630 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_61.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=61/64 configs=282295 feasible=0 nodes=565880
+TOTAL configs=282295 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_62.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=62/64 configs=367640 feasible=0 nodes=737036
+TOTAL configs=367640 leaves=0 feasible=0 simfail=0
+EXIT 0
+==> f_41610_63.log <==
+N=28 L=11 H=6 shapes=62641
+shape ((((((LL)L)(LL))((LL)L))(((LL)(LL))((LL)(LL))))((((LL)(LL))(LL))(((LL)(LL))(LL)))) part=63/64 configs=393900 feasible=0 nodes=789674
+TOTAL configs=393900 leaves=0 feasible=0 simfail=0
+EXIT 0

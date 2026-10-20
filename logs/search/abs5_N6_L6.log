@@ -1,0 +1,8 @@
+N=6 L=6 H=3 shapes=2
+  feasible: shape=(((LL)(LL))(LL)) maxcost=6 (sim ok)
+  feasible: shape=(((LL)(LL))(LL)) maxcost=6 (sim ok)
+shape (((LL)(LL))(LL)) configs=4 feasible=15 nodes=1257
+shape (((LL)L)((LL)L)) configs=3 feasible=6 nodes=798
+TOTAL configs=7 leaves=1313 feasible=21 simfail=0
+WALL 0.00 s
+EXIT 0
